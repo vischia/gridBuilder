@@ -1,0 +1,28 @@
+M_Hp =180 tanbeta=5.000000, BR(H->taunu)=0.731186, BR(H->tb)=0.241657
+M_Hp =200 tanbeta=5.000000, BR(H->taunu)=0.169792, BR(H->tb)=0.817053
+M_Hp =220 tanbeta=5.000000, BR(H->taunu)=0.080715, BR(H->tb)=0.869806
+M_Hp =240 tanbeta=5.000000, BR(H->taunu)=0.041369, BR(H->tb)=0.671911
+M_Hp =250 tanbeta=5.000000, BR(H->taunu)=0.035701, BR(H->tb)=0.664358
+M_Hp =260 tanbeta=5.000000, BR(H->taunu)=0.031499, BR(H->tb)=0.661665
+M_Hp =280 tanbeta=5.000000, BR(H->taunu)=0.026461, BR(H->tb)=0.661667
+M_Hp =300 tanbeta=5.000000, BR(H->taunu)=0.022798, BR(H->tb)=0.641995
+M_Hp =350 tanbeta=5.000000, BR(H->taunu)=0.017161, BR(H->tb)=0.583223
+M_Hp =400 tanbeta=5.000000, BR(H->taunu)=0.013466, BR(H->tb)=0.504500
+M_Hp =500 tanbeta=5.000000, BR(H->taunu)=0.006197, BR(H->tb)=0.253983
+M_Hp =600 tanbeta=5.000000, BR(H->taunu)=0.004783, BR(H->tb)=0.202538
+M_Hp =700 tanbeta=5.000000, BR(H->taunu)=0.004229, BR(H->tb)=0.180948
+
+
+M_Hp =180 tanbeta=30.000000, BR(H->taunu)=0.901490, BR(H->tb)=0.081662
+M_Hp =200 tanbeta=30.000000, BR(H->taunu)=0.534418, BR(H->tb)=0.455760
+M_Hp =220 tanbeta=30.000000, BR(H->taunu)=0.367483, BR(H->tb)=0.625690
+M_Hp =240 tanbeta=30.000000, BR(H->taunu)=0.286135, BR(H->tb)=0.692009
+M_Hp =250 tanbeta=30.000000, BR(H->taunu)=0.257198, BR(H->tb)=0.705360
+M_Hp =260 tanbeta=30.000000, BR(H->taunu)=0.236659, BR(H->tb)=0.717428
+M_Hp =280 tanbeta=30.000000, BR(H->taunu)=0.210035, BR(H->tb)=0.733824
+M_Hp =300 tanbeta=30.000000, BR(H->taunu)=0.192875, BR(H->tb)=0.744171
+M_Hp =350 tanbeta=30.000000, BR(H->taunu)=0.168414, BR(H->tb)=0.750776
+M_Hp =400 tanbeta=30.000000, BR(H->taunu)=0.151062, BR(H->tb)=0.722967
+M_Hp =500 tanbeta=30.000000, BR(H->taunu)=0.110921, BR(H->tb)=0.563428
+M_Hp =600 tanbeta=30.000000, BR(H->taunu)=0.095882, BR(H->tb)=0.495196
+M_Hp =700 tanbeta=30.000000, BR(H->taunu)=0.088969, BR(H->tb)=0.459958
