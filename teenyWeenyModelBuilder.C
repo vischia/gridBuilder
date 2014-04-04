@@ -183,9 +183,11 @@ void teenyWeenyModelBuilder(TString action){
   
       Int_t nlines(0);
       TH2F* tbh = new TH2F("TBH","B(H->taunu) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
+      TH1F* tbhc = new TH1F("TBHc","B(H->taunu) in (tanb,M_{A}) plane", 28, xbinsTanb);
       tbh->GetXaxis()->SetTitle("tan#beta");
       tbh->GetYaxis()->SetTitle("M_{A} [GeV]");
       TH2F* htb = new TH2F("HTB","B(H->tb) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
+      TH1F* htbc = new TH1F("HTBc","B(H->tb) in (tanb,M_{A}) plane", 28, xbinsTanb);
       htb->GetXaxis()->SetTitle("tan#beta");
       htb->GetYaxis()->SetTitle("M_{A} [GeV]");
       TH2F* ma = new TH2F("ma", "mA(mhp,tanbeta)", 1000, 0., 1000., 28, xbinsTanb);
@@ -219,9 +221,11 @@ void teenyWeenyModelBuilder(TString action){
 
 
         if (!in.good()) break;
-        if(tanbeta==30) printf("M_A=%8f, tanbeta=%8f, mue=%8f, M_Hp =%8f, BR(H->taunu)=%8f, BR(H->tb)=%8f\n",M_A,tanbeta,mue,M_p,BRtaunutau,BRtbb);
-	tbh->Fill(M_A,tanbeta,BRtaunutau);
-	htb->Fill(M_A,tanbeta,BRtbb);
+        if(M_A==140 && (tanbeta==5 || tanbeta==30) ) printf("M_A=%8f, tanbeta=%8f, mue=%8f, M_Hp =%8f, BR(H->taunu)=%8f, BR(H->tb)=%8f\n",M_A,tanbeta,mue,M_p,BRtaunutau,BRtbb);
+	tbhc->Fill(tanbeta, 1);
+	htbc->Fill(tanbeta, 1);
+	if(tbhc->GetBinContent(tbhc->FindBin(tanbeta)) <=1){ tbh->Fill(M_A,tanbeta,BRtaunutau);tbhc->Fill(tanbeta,1);}
+	if(htbc->GetBinContent(htbc->FindBin(tanbeta)) <=1){ htb->Fill(M_A,tanbeta,BRtbb);     htbc->Fill(tanbeta,1);}
 	ma->Fill(M_p,tanbeta,M_A);
 	
         //ntuple->Fill(x,y,z);                                                                                                                        
