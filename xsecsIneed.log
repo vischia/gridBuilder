@@ -1,0 +1,1449 @@
+
+Processing teenyWeenyModelBuilder.C("--susycorrs")...
+Calculating effective cross section
+tan(beta) = 1
+Found delta_b=0.0047492 as corresponding to tb=1
+Computed tbeff=0.997634
+tanbeta = 1, tbeff=0.997634, mhp=200, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=220, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=240, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=260, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=280, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=300, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=320, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=340, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=360, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=380, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=400, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=420, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=440, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=460, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=480, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=500, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=520, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=540, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=560, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=580, uncxsec=0, final xsec=0
+tanbeta = 1, tbeff=0.997634, mhp=600, uncxsec=0, final xsec=0
+tan(beta) = 2
+Found delta_b=0.0071747 as corresponding to tb=2
+Computed tbeff=1.99286
+tanbeta = 2, tbeff=1.99286, mhp=200, uncxsec=0.865611, final xsec=0.859445
+tanbeta = 2, tbeff=1.99286, mhp=220, uncxsec=0.697287, final xsec=0.69232
+tanbeta = 2, tbeff=1.99286, mhp=240, uncxsec=0.570619, final xsec=0.566554
+tanbeta = 2, tbeff=1.99286, mhp=260, uncxsec=0.468364, final xsec=0.465028
+tanbeta = 2, tbeff=1.99286, mhp=280, uncxsec=0.385345, final xsec=0.3826
+tanbeta = 2, tbeff=1.99286, mhp=300, uncxsec=0.317906, final xsec=0.315641
+tanbeta = 2, tbeff=1.99286, mhp=320, uncxsec=0.264408, final xsec=0.262524
+tanbeta = 2, tbeff=1.99286, mhp=340, uncxsec=0.220338, final xsec=0.218768
+tanbeta = 2, tbeff=1.99286, mhp=360, uncxsec=0.184042, final xsec=0.182731
+tanbeta = 2, tbeff=1.99286, mhp=380, uncxsec=0.154683, final xsec=0.153581
+tanbeta = 2, tbeff=1.99286, mhp=400, uncxsec=0.129697, final xsec=0.128773
+tanbeta = 2, tbeff=1.99286, mhp=420, uncxsec=0.109533, final xsec=0.108753
+tanbeta = 2, tbeff=1.99286, mhp=440, uncxsec=0.0928151, final xsec=0.0921539
+tanbeta = 2, tbeff=1.99286, mhp=460, uncxsec=0.0788251, final xsec=0.0782636
+tanbeta = 2, tbeff=1.99286, mhp=480, uncxsec=0.0670359, final xsec=0.0665584
+tanbeta = 2, tbeff=1.99286, mhp=500, uncxsec=0.0573599, final xsec=0.0569513
+tanbeta = 2, tbeff=1.99286, mhp=520, uncxsec=0.0492634, final xsec=0.0489125
+tanbeta = 2, tbeff=1.99286, mhp=540, uncxsec=0.04212, final xsec=0.04182
+tanbeta = 2, tbeff=1.99286, mhp=560, uncxsec=0.0362862, final xsec=0.0360277
+tanbeta = 2, tbeff=1.99286, mhp=580, uncxsec=0.0313684, final xsec=0.0311449
+tanbeta = 2, tbeff=1.99286, mhp=600, uncxsec=0.0272075, final xsec=0.0270137
+tan(beta) = 3
+Found delta_b=0.0101179 as corresponding to tb=3
+Computed tbeff=2.98494
+tanbeta = 3, tbeff=2.98494, mhp=200, uncxsec=0.216974, final xsec=0.214801
+tanbeta = 3, tbeff=2.98494, mhp=220, uncxsec=0.17477, final xsec=0.173019
+tanbeta = 3, tbeff=2.98494, mhp=240, uncxsec=0.143201, final xsec=0.141767
+tanbeta = 3, tbeff=2.98494, mhp=260, uncxsec=0.117628, final xsec=0.11645
+tanbeta = 3, tbeff=2.98494, mhp=280, uncxsec=0.0968689, final xsec=0.0958986
+tanbeta = 3, tbeff=2.98494, mhp=300, uncxsec=0.0797679, final xsec=0.0789689
+tanbeta = 3, tbeff=2.98494, mhp=320, uncxsec=0.0662343, final xsec=0.0655709
+tanbeta = 3, tbeff=2.98494, mhp=340, uncxsec=0.0552827, final xsec=0.054729
+tanbeta = 3, tbeff=2.98494, mhp=360, uncxsec=0.0462311, final xsec=0.045768
+tanbeta = 3, tbeff=2.98494, mhp=380, uncxsec=0.0387466, final xsec=0.0383585
+tanbeta = 3, tbeff=2.98494, mhp=400, uncxsec=0.0326054, final xsec=0.0322788
+tanbeta = 3, tbeff=2.98494, mhp=420, uncxsec=0.0274831, final xsec=0.0272078
+tanbeta = 3, tbeff=2.98494, mhp=440, uncxsec=0.0232883, final xsec=0.023055
+tanbeta = 3, tbeff=2.98494, mhp=460, uncxsec=0.0197495, final xsec=0.0195517
+tanbeta = 3, tbeff=2.98494, mhp=480, uncxsec=0.0168163, final xsec=0.0166479
+tanbeta = 3, tbeff=2.98494, mhp=500, uncxsec=0.0143885, final xsec=0.0142444
+tanbeta = 3, tbeff=2.98494, mhp=520, uncxsec=0.0123579, final xsec=0.0122341
+tanbeta = 3, tbeff=2.98494, mhp=540, uncxsec=0.0105941, final xsec=0.010488
+tanbeta = 3, tbeff=2.98494, mhp=560, uncxsec=0.00910149, final xsec=0.00901032
+tanbeta = 3, tbeff=2.98494, mhp=580, uncxsec=0.00787165, final xsec=0.0077928
+tanbeta = 3, tbeff=2.98494, mhp=600, uncxsec=0.00681764, final xsec=0.00674935
+tan(beta) = 4
+Found delta_b=0.0131902 as corresponding to tb=4
+Computed tbeff=3.97388
+tanbeta = 4, tbeff=3.97388, mhp=200, uncxsec=0.0978948, final xsec=0.0966204
+tanbeta = 4, tbeff=3.97388, mhp=220, uncxsec=0.0787921, final xsec=0.0777663
+tanbeta = 4, tbeff=3.97388, mhp=240, uncxsec=0.0645304, final xsec=0.0636903
+tanbeta = 4, tbeff=3.97388, mhp=260, uncxsec=0.0530084, final xsec=0.0523183
+tanbeta = 4, tbeff=3.97388, mhp=280, uncxsec=0.0436602, final xsec=0.0430918
+tanbeta = 4, tbeff=3.97388, mhp=300, uncxsec=0.0359763, final xsec=0.0355079
+tanbeta = 4, tbeff=3.97388, mhp=320, uncxsec=0.0299098, final xsec=0.0295204
+tanbeta = 4, tbeff=3.97388, mhp=340, uncxsec=0.0249433, final xsec=0.0246186
+tanbeta = 4, tbeff=3.97388, mhp=360, uncxsec=0.0208762, final xsec=0.0206044
+tanbeta = 4, tbeff=3.97388, mhp=380, uncxsec=0.0175061, final xsec=0.0172782
+tanbeta = 4, tbeff=3.97388, mhp=400, uncxsec=0.014708, final xsec=0.0145165
+tanbeta = 4, tbeff=3.97388, mhp=420, uncxsec=0.0124045, final xsec=0.012243
+tanbeta = 4, tbeff=3.97388, mhp=440, uncxsec=0.0105076, final xsec=0.0103708
+tanbeta = 4, tbeff=3.97388, mhp=460, uncxsec=0.00892267, final xsec=0.00880651
+tanbeta = 4, tbeff=3.97388, mhp=480, uncxsec=0.00758706, final xsec=0.00748829
+tanbeta = 4, tbeff=3.97388, mhp=500, uncxsec=0.00649972, final xsec=0.0064151
+tanbeta = 4, tbeff=3.97388, mhp=520, uncxsec=0.00557463, final xsec=0.00550206
+tanbeta = 4, tbeff=3.97388, mhp=540, uncxsec=0.00477344, final xsec=0.0047113
+tanbeta = 4, tbeff=3.97388, mhp=560, uncxsec=0.00410952, final xsec=0.00405602
+tanbeta = 4, tbeff=3.97388, mhp=580, uncxsec=0.00355155, final xsec=0.00350531
+tanbeta = 4, tbeff=3.97388, mhp=600, uncxsec=0.00307932, final xsec=0.00303923
+tan(beta) = 5
+Found delta_b=0.0163141 as corresponding to tb=5
+Computed tbeff=4.95971
+tanbeta = 5, tbeff=4.95971, mhp=200, uncxsec=0.0571902, final xsec=0.0562722
+tanbeta = 5, tbeff=4.95971, mhp=220, uncxsec=0.0461112, final xsec=0.045371
+tanbeta = 5, tbeff=4.95971, mhp=240, uncxsec=0.037778, final xsec=0.0371716
+tanbeta = 5, tbeff=4.95971, mhp=260, uncxsec=0.0310595, final xsec=0.0305609
+tanbeta = 5, tbeff=4.95971, mhp=280, uncxsec=0.0255703, final xsec=0.0251598
+tanbeta = 5, tbeff=4.95971, mhp=300, uncxsec=0.0211072, final xsec=0.0207684
+tanbeta = 5, tbeff=4.95971, mhp=320, uncxsec=0.0175335, final xsec=0.017252
+tanbeta = 5, tbeff=4.95971, mhp=340, uncxsec=0.014615, final xsec=0.0143804
+tanbeta = 5, tbeff=4.95971, mhp=360, uncxsec=0.012208, final xsec=0.012012
+tanbeta = 5, tbeff=4.95971, mhp=380, uncxsec=0.0102655, final xsec=0.0101007
+tanbeta = 5, tbeff=4.95971, mhp=400, uncxsec=0.00861982, final xsec=0.00848145
+tanbeta = 5, tbeff=4.95971, mhp=420, uncxsec=0.00726317, final xsec=0.00714658
+tanbeta = 5, tbeff=4.95971, mhp=440, uncxsec=0.00616268, final xsec=0.00606376
+tanbeta = 5, tbeff=4.95971, mhp=460, uncxsec=0.00523316, final xsec=0.00514916
+tanbeta = 5, tbeff=4.95971, mhp=480, uncxsec=0.00444756, final xsec=0.00437617
+tanbeta = 5, tbeff=4.95971, mhp=500, uncxsec=0.00380972, final xsec=0.00374857
+tanbeta = 5, tbeff=4.95971, mhp=520, uncxsec=0.00326831, final xsec=0.00321585
+tanbeta = 5, tbeff=4.95971, mhp=540, uncxsec=0.00279797, final xsec=0.00275306
+tanbeta = 5, tbeff=4.95971, mhp=560, uncxsec=0.00240708, final xsec=0.00236844
+tanbeta = 5, tbeff=4.95971, mhp=580, uncxsec=0.00208231, final xsec=0.00204888
+tanbeta = 5, tbeff=4.95971, mhp=600, uncxsec=0.00180393, final xsec=0.00177497
+tan(beta) = 6
+Found delta_b=0.0194637 as corresponding to tb=6
+Computed tbeff=5.94245
+tanbeta = 6, tbeff=5.94245, mhp=200, uncxsec=0.0396317, final xsec=0.038875
+tanbeta = 6, tbeff=5.94245, mhp=220, uncxsec=0.0320298, final xsec=0.0314183
+tanbeta = 6, tbeff=5.94245, mhp=240, uncxsec=0.0262328, final xsec=0.025732
+tanbeta = 6, tbeff=5.94245, mhp=260, uncxsec=0.0215785, final xsec=0.0211665
+tanbeta = 6, tbeff=5.94245, mhp=280, uncxsec=0.0177687, final xsec=0.0174295
+tanbeta = 6, tbeff=5.94245, mhp=300, uncxsec=0.0146531, final xsec=0.0143733
+tanbeta = 6, tbeff=5.94245, mhp=320, uncxsec=0.0121843, final xsec=0.0119517
+tanbeta = 6, tbeff=5.94245, mhp=340, uncxsec=0.0101771, final xsec=0.0099828
+tanbeta = 6, tbeff=5.94245, mhp=360, uncxsec=0.00849956, final xsec=0.00833729
+tanbeta = 6, tbeff=5.94245, mhp=380, uncxsec=0.00713091, final xsec=0.00699477
+tanbeta = 6, tbeff=5.94245, mhp=400, uncxsec=0.00599299, final xsec=0.00587857
+tanbeta = 6, tbeff=5.94245, mhp=420, uncxsec=0.00504653, final xsec=0.00495018
+tanbeta = 6, tbeff=5.94245, mhp=440, uncxsec=0.00428636, final xsec=0.00420452
+tanbeta = 6, tbeff=5.94245, mhp=460, uncxsec=0.00363348, final xsec=0.00356411
+tanbeta = 6, tbeff=5.94245, mhp=480, uncxsec=0.00309248, final xsec=0.00303344
+tanbeta = 6, tbeff=5.94245, mhp=500, uncxsec=0.00264977, final xsec=0.00259918
+tanbeta = 6, tbeff=5.94245, mhp=520, uncxsec=0.002274, final xsec=0.00223058
+tanbeta = 6, tbeff=5.94245, mhp=540, uncxsec=0.00194324, final xsec=0.00190614
+tanbeta = 6, tbeff=5.94245, mhp=560, uncxsec=0.00167491, final xsec=0.00164293
+tanbeta = 6, tbeff=5.94245, mhp=580, uncxsec=0.00144682, final xsec=0.0014192
+tanbeta = 6, tbeff=5.94245, mhp=600, uncxsec=0.00125289, final xsec=0.00122897
+tan(beta) = 7
+Found delta_b=0.022628 as corresponding to tb=7
+Computed tbeff=6.92212
+tanbeta = 7, tbeff=6.92212, mhp=200, uncxsec=0.0315239, final xsec=0.0308264
+tanbeta = 7, tbeff=6.92212, mhp=220, uncxsec=0.0254711, final xsec=0.0249075
+tanbeta = 7, tbeff=6.92212, mhp=240, uncxsec=0.0208851, final xsec=0.020423
+tanbeta = 7, tbeff=6.92212, mhp=260, uncxsec=0.0171577, final xsec=0.016778
+tanbeta = 7, tbeff=6.92212, mhp=280, uncxsec=0.0141458, final xsec=0.0138328
+tanbeta = 7, tbeff=6.92212, mhp=300, uncxsec=0.0116493, final xsec=0.0113915
+tanbeta = 7, tbeff=6.92212, mhp=320, uncxsec=0.00968911, final xsec=0.00947472
+tanbeta = 7, tbeff=6.92212, mhp=340, uncxsec=0.00808174, final xsec=0.00790291
+tanbeta = 7, tbeff=6.92212, mhp=360, uncxsec=0.00675703, final xsec=0.00660751
+tanbeta = 7, tbeff=6.92212, mhp=380, uncxsec=0.00567277, final xsec=0.00554725
+tanbeta = 7, tbeff=6.92212, mhp=400, uncxsec=0.00475803, final xsec=0.00465275
+tanbeta = 7, tbeff=6.92212, mhp=420, uncxsec=0.00401402, final xsec=0.0039252
+tanbeta = 7, tbeff=6.92212, mhp=440, uncxsec=0.00340748, final xsec=0.00333208
+tanbeta = 7, tbeff=6.92212, mhp=460, uncxsec=0.00289408, final xsec=0.00283004
+tanbeta = 7, tbeff=6.92212, mhp=480, uncxsec=0.00245784, final xsec=0.00240345
+tanbeta = 7, tbeff=6.92212, mhp=500, uncxsec=0.00210937, final xsec=0.0020627
+tanbeta = 7, tbeff=6.92212, mhp=520, uncxsec=0.00180606, final xsec=0.0017661
+tanbeta = 7, tbeff=6.92212, mhp=540, uncxsec=0.00154232, final xsec=0.00150819
+tanbeta = 7, tbeff=6.92212, mhp=560, uncxsec=0.00133413, final xsec=0.00130461
+tanbeta = 7, tbeff=6.92212, mhp=580, uncxsec=0.0011505, final xsec=0.00112504
+tanbeta = 7, tbeff=6.92212, mhp=600, uncxsec=0.000996354, final xsec=0.000974307
+tan(beta) = 8
+Found delta_b=0.0258015 as corresponding to tb=8
+Computed tbeff=7.89875
+tanbeta = 8, tbeff=7.89875, mhp=200, uncxsec=0.0280487, final xsec=0.0273432
+tanbeta = 8, tbeff=7.89875, mhp=220, uncxsec=0.0226847, final xsec=0.0221141
+tanbeta = 8, tbeff=7.89875, mhp=240, uncxsec=0.0185645, final xsec=0.0180976
+tanbeta = 8, tbeff=7.89875, mhp=260, uncxsec=0.0152436, final xsec=0.0148602
+tanbeta = 8, tbeff=7.89875, mhp=280, uncxsec=0.0125826, final xsec=0.0122661
+tanbeta = 8, tbeff=7.89875, mhp=300, uncxsec=0.0103579, final xsec=0.0100974
+tanbeta = 8, tbeff=7.89875, mhp=320, uncxsec=0.00860633, final xsec=0.00838986
+tanbeta = 8, tbeff=7.89875, mhp=340, uncxsec=0.00718072, final xsec=0.00700011
+tanbeta = 8, tbeff=7.89875, mhp=360, uncxsec=0.00600664, final xsec=0.00585556
+tanbeta = 8, tbeff=7.89875, mhp=380, uncxsec=0.00503762, final xsec=0.00491091
+tanbeta = 8, tbeff=7.89875, mhp=400, uncxsec=0.00422887, final xsec=0.0041225
+tanbeta = 8, tbeff=7.89875, mhp=420, uncxsec=0.00356236, final xsec=0.00347276
+tanbeta = 8, tbeff=7.89875, mhp=440, uncxsec=0.00302358, final xsec=0.00294753
+tanbeta = 8, tbeff=7.89875, mhp=460, uncxsec=0.00257345, final xsec=0.00250872
+tanbeta = 8, tbeff=7.89875, mhp=480, uncxsec=0.00218478, final xsec=0.00212983
+tanbeta = 8, tbeff=7.89875, mhp=500, uncxsec=0.00187119, final xsec=0.00182412
+tanbeta = 8, tbeff=7.89875, mhp=520, uncxsec=0.00160214, final xsec=0.00156184
+tanbeta = 8, tbeff=7.89875, mhp=540, uncxsec=0.00136941, final xsec=0.00133497
+tanbeta = 8, tbeff=7.89875, mhp=560, uncxsec=0.00118384, final xsec=0.00115406
+tanbeta = 8, tbeff=7.89875, mhp=580, uncxsec=0.00101742, final xsec=0.000991829
+tanbeta = 8, tbeff=7.89875, mhp=600, uncxsec=0.00088237, final xsec=0.000860176
+tan(beta) = 9
+Found delta_b=0.0289811 as corresponding to tb=9
+Computed tbeff=8.87235
+tanbeta = 9, tbeff=8.87235, mhp=200, uncxsec=0.0272318, final xsec=0.0264648
+tanbeta = 9, tbeff=8.87235, mhp=220, uncxsec=0.0220101, final xsec=0.0213902
+tanbeta = 9, tbeff=8.87235, mhp=240, uncxsec=0.018027, final xsec=0.0175193
+tanbeta = 9, tbeff=8.87235, mhp=260, uncxsec=0.0147757, final xsec=0.0143595
+tanbeta = 9, tbeff=8.87235, mhp=280, uncxsec=0.0122074, final xsec=0.0118636
+tanbeta = 9, tbeff=8.87235, mhp=300, uncxsec=0.0100379, final xsec=0.00975518
+tanbeta = 9, tbeff=8.87235, mhp=320, uncxsec=0.00833827, final xsec=0.00810342
+tanbeta = 9, tbeff=8.87235, mhp=340, uncxsec=0.00695691, final xsec=0.00676097
+tanbeta = 9, tbeff=8.87235, mhp=360, uncxsec=0.00582535, final xsec=0.00566128
+tanbeta = 9, tbeff=8.87235, mhp=380, uncxsec=0.00488763, final xsec=0.00474997
+tanbeta = 9, tbeff=8.87235, mhp=400, uncxsec=0.00410254, final xsec=0.00398699
+tanbeta = 9, tbeff=8.87235, mhp=420, uncxsec=0.00345414, final xsec=0.00335685
+tanbeta = 9, tbeff=8.87235, mhp=440, uncxsec=0.00293215, final xsec=0.00284957
+tanbeta = 9, tbeff=8.87235, mhp=460, uncxsec=0.00248637, final xsec=0.00241634
+tanbeta = 9, tbeff=8.87235, mhp=480, uncxsec=0.00211496, final xsec=0.00205539
+tanbeta = 9, tbeff=8.87235, mhp=500, uncxsec=0.00181236, final xsec=0.00176132
+tanbeta = 9, tbeff=8.87235, mhp=520, uncxsec=0.00155226, final xsec=0.00150854
+tanbeta = 9, tbeff=8.87235, mhp=540, uncxsec=0.0013271, final xsec=0.00128972
+tanbeta = 9, tbeff=8.87235, mhp=560, uncxsec=0.00113883, final xsec=0.00110675
+tanbeta = 9, tbeff=8.87235, mhp=580, uncxsec=0.000986252, final xsec=0.000958474
+tanbeta = 9, tbeff=8.87235, mhp=600, uncxsec=0.000855045, final xsec=0.000830963
+tan(beta) = 10
+Found delta_b=0.032165 as corresponding to tb=10
+Computed tbeff=9.84295
+tanbeta = 10, tbeff=9.84295, mhp=200, uncxsec=0.0281909, final xsec=0.0273124
+tanbeta = 10, tbeff=9.84295, mhp=220, uncxsec=0.0227407, final xsec=0.022032
+tanbeta = 10, tbeff=9.84295, mhp=240, uncxsec=0.0186322, final xsec=0.0180516
+tanbeta = 10, tbeff=9.84295, mhp=260, uncxsec=0.0152771, final xsec=0.014801
+tanbeta = 10, tbeff=9.84295, mhp=280, uncxsec=0.0125998, final xsec=0.0122072
+tanbeta = 10, tbeff=9.84295, mhp=300, uncxsec=0.0103929, final xsec=0.010069
+tanbeta = 10, tbeff=9.84295, mhp=320, uncxsec=0.00860974, final xsec=0.00834144
+tanbeta = 10, tbeff=9.84295, mhp=340, uncxsec=0.00718394, final xsec=0.00696007
+tanbeta = 10, tbeff=9.84295, mhp=360, uncxsec=0.00601645, final xsec=0.00582896
+tanbeta = 10, tbeff=9.84295, mhp=380, uncxsec=0.00504791, final xsec=0.0048906
+tanbeta = 10, tbeff=9.84295, mhp=400, uncxsec=0.0042333, final xsec=0.00410138
+tanbeta = 10, tbeff=9.84295, mhp=420, uncxsec=0.00356832, final xsec=0.00345712
+tanbeta = 10, tbeff=9.84295, mhp=440, uncxsec=0.00302129, final xsec=0.00292714
+tanbeta = 10, tbeff=9.84295, mhp=460, uncxsec=0.00256796, final xsec=0.00248794
+tanbeta = 10, tbeff=9.84295, mhp=480, uncxsec=0.00218067, final xsec=0.00211271
+tanbeta = 10, tbeff=9.84295, mhp=500, uncxsec=0.00186724, final xsec=0.00180905
+tanbeta = 10, tbeff=9.84295, mhp=520, uncxsec=0.00159797, final xsec=0.00154817
+tanbeta = 10, tbeff=9.84295, mhp=540, uncxsec=0.00136733, final xsec=0.00132472
+tanbeta = 10, tbeff=9.84295, mhp=560, uncxsec=0.00117419, final xsec=0.0011376
+tanbeta = 10, tbeff=9.84295, mhp=580, uncxsec=0.00101719, final xsec=0.000985492
+tanbeta = 10, tbeff=9.84295, mhp=600, uncxsec=0.000879726, final xsec=0.000852311
+tan(beta) = 11
+Found delta_b=0.0353521 as corresponding to tb=11
+Computed tbeff=10.8106
+tanbeta = 11, tbeff=10.8106, mhp=200, uncxsec=0.0304013, final xsec=0.0293632
+tanbeta = 11, tbeff=10.8106, mhp=220, uncxsec=0.024491, final xsec=0.0236548
+tanbeta = 11, tbeff=10.8106, mhp=240, uncxsec=0.0200697, final xsec=0.0193844
+tanbeta = 11, tbeff=10.8106, mhp=260, uncxsec=0.0164703, final xsec=0.0159079
+tanbeta = 11, tbeff=10.8106, mhp=280, uncxsec=0.0135548, final xsec=0.013092
+tanbeta = 11, tbeff=10.8106, mhp=300, uncxsec=0.0111574, final xsec=0.0107764
+tanbeta = 11, tbeff=10.8106, mhp=320, uncxsec=0.00926101, final xsec=0.00894479
+tanbeta = 11, tbeff=10.8106, mhp=340, uncxsec=0.00773186, final xsec=0.00746786
+tanbeta = 11, tbeff=10.8106, mhp=360, uncxsec=0.00647039, final xsec=0.00624946
+tanbeta = 11, tbeff=10.8106, mhp=380, uncxsec=0.00542768, final xsec=0.00524235
+tanbeta = 11, tbeff=10.8106, mhp=400, uncxsec=0.0045518, final xsec=0.00439638
+tanbeta = 11, tbeff=10.8106, mhp=420, uncxsec=0.00383162, final xsec=0.00370079
+tanbeta = 11, tbeff=10.8106, mhp=440, uncxsec=0.00324691, final xsec=0.00313604
+tanbeta = 11, tbeff=10.8106, mhp=460, uncxsec=0.00275784, final xsec=0.00266367
+tanbeta = 11, tbeff=10.8106, mhp=480, uncxsec=0.00233955, final xsec=0.00225967
+tanbeta = 11, tbeff=10.8106, mhp=500, uncxsec=0.00200496, final xsec=0.0019365
+tanbeta = 11, tbeff=10.8106, mhp=520, uncxsec=0.00171914, final xsec=0.00166044
+tanbeta = 11, tbeff=10.8106, mhp=540, uncxsec=0.00146568, final xsec=0.00141563
+tanbeta = 11, tbeff=10.8106, mhp=560, uncxsec=0.0012646, final xsec=0.00122142
+tanbeta = 11, tbeff=10.8106, mhp=580, uncxsec=0.00109559, final xsec=0.00105818
+tanbeta = 11, tbeff=10.8106, mhp=600, uncxsec=0.00094653, final xsec=0.000914211
+tan(beta) = 12
+Found delta_b=0.0385414 as corresponding to tb=12
+Computed tbeff=11.7752
+tanbeta = 12, tbeff=11.7752, mhp=200, uncxsec=0.0336091, final xsec=0.0323618
+tanbeta = 12, tbeff=11.7752, mhp=220, uncxsec=0.0270241, final xsec=0.0260212
+tanbeta = 12, tbeff=11.7752, mhp=240, uncxsec=0.0221702, final xsec=0.0213474
+tanbeta = 12, tbeff=11.7752, mhp=260, uncxsec=0.0181659, final xsec=0.0174917
+tanbeta = 12, tbeff=11.7752, mhp=280, uncxsec=0.0149388, final xsec=0.0143844
+tanbeta = 12, tbeff=11.7752, mhp=300, uncxsec=0.0122924, final xsec=0.0118362
+tanbeta = 12, tbeff=11.7752, mhp=320, uncxsec=0.0102317, final xsec=0.00985199
+tanbeta = 12, tbeff=11.7752, mhp=340, uncxsec=0.00851921, final xsec=0.00820305
+tanbeta = 12, tbeff=11.7752, mhp=360, uncxsec=0.00713384, final xsec=0.0068691
+tanbeta = 12, tbeff=11.7752, mhp=380, uncxsec=0.00597585, final xsec=0.00575408
+tanbeta = 12, tbeff=11.7752, mhp=400, uncxsec=0.00501191, final xsec=0.00482591
+tanbeta = 12, tbeff=11.7752, mhp=420, uncxsec=0.00422026, final xsec=0.00406364
+tanbeta = 12, tbeff=11.7752, mhp=440, uncxsec=0.00357532, final xsec=0.00344264
+tanbeta = 12, tbeff=11.7752, mhp=460, uncxsec=0.00303022, final xsec=0.00291777
+tanbeta = 12, tbeff=11.7752, mhp=480, uncxsec=0.00257361, final xsec=0.0024781
+tanbeta = 12, tbeff=11.7752, mhp=500, uncxsec=0.00220842, final xsec=0.00212646
+tanbeta = 12, tbeff=11.7752, mhp=520, uncxsec=0.00189344, final xsec=0.00182317
+tanbeta = 12, tbeff=11.7752, mhp=540, uncxsec=0.00161383, final xsec=0.00155394
+tanbeta = 12, tbeff=11.7752, mhp=560, uncxsec=0.00139258, final xsec=0.0013409
+tanbeta = 12, tbeff=11.7752, mhp=580, uncxsec=0.00120137, final xsec=0.00115679
+tanbeta = 12, tbeff=11.7752, mhp=600, uncxsec=0.00104199, final xsec=0.00100332
+tan(beta) = 13
+Found delta_b=0.0417326 as corresponding to tb=13
+Computed tbeff=12.7369
+tanbeta = 13, tbeff=12.7369, mhp=200, uncxsec=0.0375487, final xsec=0.0360445
+tanbeta = 13, tbeff=12.7369, mhp=220, uncxsec=0.0302242, final xsec=0.0290134
+tanbeta = 13, tbeff=12.7369, mhp=240, uncxsec=0.0247226, final xsec=0.0237322
+tanbeta = 13, tbeff=12.7369, mhp=260, uncxsec=0.0202757, final xsec=0.0194634
+tanbeta = 13, tbeff=12.7369, mhp=280, uncxsec=0.0167058, final xsec=0.0160366
+tanbeta = 13, tbeff=12.7369, mhp=300, uncxsec=0.0137408, final xsec=0.0131903
+tanbeta = 13, tbeff=12.7369, mhp=320, uncxsec=0.011392, final xsec=0.0109356
+tanbeta = 13, tbeff=12.7369, mhp=340, uncxsec=0.00951568, final xsec=0.00913447
+tanbeta = 13, tbeff=12.7369, mhp=360, uncxsec=0.00796185, final xsec=0.00764289
+tanbeta = 13, tbeff=12.7369, mhp=380, uncxsec=0.00667147, final xsec=0.00640421
+tanbeta = 13, tbeff=12.7369, mhp=400, uncxsec=0.00558875, final xsec=0.00536486
+tanbeta = 13, tbeff=12.7369, mhp=420, uncxsec=0.00471246, final xsec=0.00452368
+tanbeta = 13, tbeff=12.7369, mhp=440, uncxsec=0.0039945, final xsec=0.00383448
+tanbeta = 13, tbeff=12.7369, mhp=460, uncxsec=0.00338876, final xsec=0.003253
+tanbeta = 13, tbeff=12.7369, mhp=480, uncxsec=0.00287809, final xsec=0.00276279
+tanbeta = 13, tbeff=12.7369, mhp=500, uncxsec=0.00246218, final xsec=0.00236354
+tanbeta = 13, tbeff=12.7369, mhp=520, uncxsec=0.00211075, final xsec=0.00202619
+tanbeta = 13, tbeff=12.7369, mhp=540, uncxsec=0.00180215, final xsec=0.00172995
+tanbeta = 13, tbeff=12.7369, mhp=560, uncxsec=0.00155331, final xsec=0.00149108
+tanbeta = 13, tbeff=12.7369, mhp=580, uncxsec=0.0013396, final xsec=0.00128593
+tanbeta = 13, tbeff=12.7369, mhp=600, uncxsec=0.00116028, final xsec=0.0011138
+tan(beta) = 14
+Found delta_b=0.0449252 as corresponding to tb=14
+Computed tbeff=13.6957
+tanbeta = 14, tbeff=13.6957, mhp=200, uncxsec=0.0422651, final xsec=0.040448
+tanbeta = 14, tbeff=13.6957, mhp=220, uncxsec=0.0339707, final xsec=0.0325102
+tanbeta = 14, tbeff=13.6957, mhp=240, uncxsec=0.0278201, final xsec=0.026624
+tanbeta = 14, tbeff=13.6957, mhp=260, uncxsec=0.0227642, final xsec=0.0217855
+tanbeta = 14, tbeff=13.6957, mhp=280, uncxsec=0.0187832, final xsec=0.0179756
+tanbeta = 14, tbeff=13.6957, mhp=300, uncxsec=0.0154739, final xsec=0.0148086
+tanbeta = 14, tbeff=13.6957, mhp=320, uncxsec=0.012816, final xsec=0.012265
+tanbeta = 14, tbeff=13.6957, mhp=340, uncxsec=0.0106982, final xsec=0.0102382
+tanbeta = 14, tbeff=13.6957, mhp=360, uncxsec=0.0089362, final xsec=0.008552
+tanbeta = 14, tbeff=13.6957, mhp=380, uncxsec=0.00748273, final xsec=0.00716102
+tanbeta = 14, tbeff=13.6957, mhp=400, uncxsec=0.00627661, final xsec=0.00600676
+tanbeta = 14, tbeff=13.6957, mhp=420, uncxsec=0.00528524, final xsec=0.00505801
+tanbeta = 14, tbeff=13.6957, mhp=440, uncxsec=0.00447889, final xsec=0.00428633
+tanbeta = 14, tbeff=13.6957, mhp=460, uncxsec=0.00379497, final xsec=0.00363181
+tanbeta = 14, tbeff=13.6957, mhp=480, uncxsec=0.00322544, final xsec=0.00308677
+tanbeta = 14, tbeff=13.6957, mhp=500, uncxsec=0.00276361, final xsec=0.00264479
+tanbeta = 14, tbeff=13.6957, mhp=520, uncxsec=0.00236793, final xsec=0.00226612
+tanbeta = 14, tbeff=13.6957, mhp=540, uncxsec=0.00202326, final xsec=0.00193627
+tanbeta = 14, tbeff=13.6957, mhp=560, uncxsec=0.00174157, final xsec=0.00166669
+tanbeta = 14, tbeff=13.6957, mhp=580, uncxsec=0.00150802, final xsec=0.00144318
+tanbeta = 14, tbeff=13.6957, mhp=600, uncxsec=0.00129872, final xsec=0.00124288
+tan(beta) = 15
+Found delta_b=0.0481188 as corresponding to tb=15
+Computed tbeff=14.6516
+tanbeta = 15, tbeff=14.6516, mhp=200, uncxsec=0.0476117, final xsec=0.0454259
+tanbeta = 15, tbeff=14.6516, mhp=220, uncxsec=0.038218, final xsec=0.0364634
+tanbeta = 15, tbeff=14.6516, mhp=240, uncxsec=0.0312782, final xsec=0.0298422
+tanbeta = 15, tbeff=14.6516, mhp=260, uncxsec=0.0256378, final xsec=0.0244608
+tanbeta = 15, tbeff=14.6516, mhp=280, uncxsec=0.0210823, final xsec=0.0201144
+tanbeta = 15, tbeff=14.6516, mhp=300, uncxsec=0.0173573, final xsec=0.0165604
+tanbeta = 15, tbeff=14.6516, mhp=320, uncxsec=0.0143846, final xsec=0.0137242
+tanbeta = 15, tbeff=14.6516, mhp=340, uncxsec=0.0120369, final xsec=0.0114843
+tanbeta = 15, tbeff=14.6516, mhp=360, uncxsec=0.0100431, final xsec=0.00958202
+tanbeta = 15, tbeff=14.6516, mhp=380, uncxsec=0.0084128, final xsec=0.00802657
+tanbeta = 15, tbeff=14.6516, mhp=400, uncxsec=0.00704959, final xsec=0.00672595
+tanbeta = 15, tbeff=14.6516, mhp=420, uncxsec=0.00594047, final xsec=0.00566774
+tanbeta = 15, tbeff=14.6516, mhp=440, uncxsec=0.00502903, final xsec=0.00479815
+tanbeta = 15, tbeff=14.6516, mhp=460, uncxsec=0.00427177, final xsec=0.00407565
+tanbeta = 15, tbeff=14.6516, mhp=480, uncxsec=0.00362521, final xsec=0.00345878
+tanbeta = 15, tbeff=14.6516, mhp=500, uncxsec=0.00310416, final xsec=0.00296165
+tanbeta = 15, tbeff=14.6516, mhp=520, uncxsec=0.00265802, final xsec=0.00253599
+tanbeta = 15, tbeff=14.6516, mhp=540, uncxsec=0.00227452, final xsec=0.0021701
+tanbeta = 15, tbeff=14.6516, mhp=560, uncxsec=0.00195515, final xsec=0.00186539
+tanbeta = 15, tbeff=14.6516, mhp=580, uncxsec=0.00168649, final xsec=0.00160906
+tanbeta = 15, tbeff=14.6516, mhp=600, uncxsec=0.00145991, final xsec=0.00139289
+tan(beta) = 16
+Found delta_b=0.0513134 as corresponding to tb=16
+Computed tbeff=15.6046
+tanbeta = 16, tbeff=15.6046, mhp=200, uncxsec=0.0534589, final xsec=0.0508496
+tanbeta = 16, tbeff=15.6046, mhp=220, uncxsec=0.0429454, final xsec=0.0408493
+tanbeta = 16, tbeff=15.6046, mhp=240, uncxsec=0.0351251, final xsec=0.0334107
+tanbeta = 16, tbeff=15.6046, mhp=260, uncxsec=0.0287683, final xsec=0.0273642
+tanbeta = 16, tbeff=15.6046, mhp=280, uncxsec=0.023644, final xsec=0.02249
+tanbeta = 16, tbeff=15.6046, mhp=300, uncxsec=0.0194976, final xsec=0.0185459
+tanbeta = 16, tbeff=15.6046, mhp=320, uncxsec=0.0161362, final xsec=0.0153486
+tanbeta = 16, tbeff=15.6046, mhp=340, uncxsec=0.0134798, final xsec=0.0128219
+tanbeta = 16, tbeff=15.6046, mhp=360, uncxsec=0.0112576, final xsec=0.0107081
+tanbeta = 16, tbeff=15.6046, mhp=380, uncxsec=0.00944668, final xsec=0.0089856
+tanbeta = 16, tbeff=15.6046, mhp=400, uncxsec=0.00791626, final xsec=0.00752988
+tanbeta = 16, tbeff=15.6046, mhp=420, uncxsec=0.00666156, final xsec=0.00633642
+tanbeta = 16, tbeff=15.6046, mhp=440, uncxsec=0.00564453, final xsec=0.00536903
+tanbeta = 16, tbeff=15.6046, mhp=460, uncxsec=0.0047889, final xsec=0.00455516
+tanbeta = 16, tbeff=15.6046, mhp=480, uncxsec=0.00406786, final xsec=0.00386931
+tanbeta = 16, tbeff=15.6046, mhp=500, uncxsec=0.00348027, final xsec=0.0033104
+tanbeta = 16, tbeff=15.6046, mhp=520, uncxsec=0.00298368, final xsec=0.00283805
+tanbeta = 16, tbeff=15.6046, mhp=540, uncxsec=0.00254585, final xsec=0.00242159
+tanbeta = 16, tbeff=15.6046, mhp=560, uncxsec=0.00219364, final xsec=0.00208657
+tanbeta = 16, tbeff=15.6046, mhp=580, uncxsec=0.00189774, final xsec=0.00180511
+tanbeta = 16, tbeff=15.6046, mhp=600, uncxsec=0.00164122, final xsec=0.00156111
+tan(beta) = 17
+Found delta_b=0.0545088 as corresponding to tb=17
+Computed tbeff=16.5548
+tanbeta = 17, tbeff=16.5548, mhp=200, uncxsec=0.0599293, final xsec=0.0568315
+tanbeta = 17, tbeff=16.5548, mhp=220, uncxsec=0.0482064, final xsec=0.0457146
+tanbeta = 17, tbeff=16.5548, mhp=240, uncxsec=0.0393741, final xsec=0.0373388
+tanbeta = 17, tbeff=16.5548, mhp=260, uncxsec=0.032226, final xsec=0.0305602
+tanbeta = 17, tbeff=16.5548, mhp=280, uncxsec=0.0265288, final xsec=0.0251575
+tanbeta = 17, tbeff=16.5548, mhp=300, uncxsec=0.0218677, final xsec=0.0207373
+tanbeta = 17, tbeff=16.5548, mhp=320, uncxsec=0.0180804, final xsec=0.0171458
+tanbeta = 17, tbeff=16.5548, mhp=340, uncxsec=0.015113, final xsec=0.0143318
+tanbeta = 17, tbeff=16.5548, mhp=360, uncxsec=0.0126004, final xsec=0.0119491
+tanbeta = 17, tbeff=16.5548, mhp=380, uncxsec=0.0105526, final xsec=0.0100071
+tanbeta = 17, tbeff=16.5548, mhp=400, uncxsec=0.0088582, final xsec=0.00840031
+tanbeta = 17, tbeff=16.5548, mhp=420, uncxsec=0.00746044, final xsec=0.0070748
+tanbeta = 17, tbeff=16.5548, mhp=440, uncxsec=0.00631584, final xsec=0.00598937
+tanbeta = 17, tbeff=16.5548, mhp=460, uncxsec=0.00536116, final xsec=0.00508404
+tanbeta = 17, tbeff=16.5548, mhp=480, uncxsec=0.00455075, final xsec=0.00431552
+tanbeta = 17, tbeff=16.5548, mhp=500, uncxsec=0.0038963, final xsec=0.0036949
+tanbeta = 17, tbeff=16.5548, mhp=520, uncxsec=0.003337, final xsec=0.00316451
+tanbeta = 17, tbeff=16.5548, mhp=540, uncxsec=0.00285213, final xsec=0.0027047
+tanbeta = 17, tbeff=16.5548, mhp=560, uncxsec=0.00245483, final xsec=0.00232794
+tanbeta = 17, tbeff=16.5548, mhp=580, uncxsec=0.00212131, final xsec=0.00201166
+tanbeta = 17, tbeff=16.5548, mhp=600, uncxsec=0.00183492, final xsec=0.00174007
+tan(beta) = 18
+Found delta_b=0.0577048 as corresponding to tb=18
+Computed tbeff=17.5021
+tanbeta = 18, tbeff=17.5021, mhp=200, uncxsec=0.0669073, final xsec=0.0632571
+tanbeta = 18, tbeff=17.5021, mhp=220, uncxsec=0.0537144, final xsec=0.0507839
+tanbeta = 18, tbeff=17.5021, mhp=240, uncxsec=0.0439506, final xsec=0.0415528
+tanbeta = 18, tbeff=17.5021, mhp=260, uncxsec=0.035967, final xsec=0.0340048
+tanbeta = 18, tbeff=17.5021, mhp=280, uncxsec=0.0296257, final xsec=0.0280094
+tanbeta = 18, tbeff=17.5021, mhp=300, uncxsec=0.0243481, final xsec=0.0230198
+tanbeta = 18, tbeff=17.5021, mhp=320, uncxsec=0.0202053, final xsec=0.019103
+tanbeta = 18, tbeff=17.5021, mhp=340, uncxsec=0.0168363, final xsec=0.0159178
+tanbeta = 18, tbeff=17.5021, mhp=360, uncxsec=0.0140843, final xsec=0.0133159
+tanbeta = 18, tbeff=17.5021, mhp=380, uncxsec=0.0117726, final xsec=0.0111303
+tanbeta = 18, tbeff=17.5021, mhp=400, uncxsec=0.00987803, final xsec=0.00933912
+tanbeta = 18, tbeff=17.5021, mhp=420, uncxsec=0.00832277, final xsec=0.00786871
+tanbeta = 18, tbeff=17.5021, mhp=440, uncxsec=0.0070449, final xsec=0.00666055
+tanbeta = 18, tbeff=17.5021, mhp=460, uncxsec=0.00597912, final xsec=0.00565292
+tanbeta = 18, tbeff=17.5021, mhp=480, uncxsec=0.00507124, final xsec=0.00479457
+tanbeta = 18, tbeff=17.5021, mhp=500, uncxsec=0.00434568, final xsec=0.00410859
+tanbeta = 18, tbeff=17.5021, mhp=520, uncxsec=0.0037254, final xsec=0.00352215
+tanbeta = 18, tbeff=17.5021, mhp=540, uncxsec=0.00318379, final xsec=0.00301009
+tanbeta = 18, tbeff=17.5021, mhp=560, uncxsec=0.00273833, final xsec=0.00258894
+tanbeta = 18, tbeff=17.5021, mhp=580, uncxsec=0.00236794, final xsec=0.00223875
+tanbeta = 18, tbeff=17.5021, mhp=600, uncxsec=0.00204388, final xsec=0.00193237
+tan(beta) = 19
+Found delta_b=0.0609013 as corresponding to tb=19
+Computed tbeff=18.4466
+tanbeta = 19, tbeff=18.4466, mhp=200, uncxsec=0.0743716, final xsec=0.0701023
+tanbeta = 19, tbeff=18.4466, mhp=220, uncxsec=0.0596669, final xsec=0.0562417
+tanbeta = 19, tbeff=18.4466, mhp=240, uncxsec=0.0488825, final xsec=0.0460764
+tanbeta = 19, tbeff=18.4466, mhp=260, uncxsec=0.0399923, final xsec=0.0376965
+tanbeta = 19, tbeff=18.4466, mhp=280, uncxsec=0.0328399, final xsec=0.0309547
+tanbeta = 19, tbeff=18.4466, mhp=300, uncxsec=0.0271008, final xsec=0.0255451
+tanbeta = 19, tbeff=18.4466, mhp=320, uncxsec=0.0224482, final xsec=0.0211596
+tanbeta = 19, tbeff=18.4466, mhp=340, uncxsec=0.0186747, final xsec=0.0176027
+tanbeta = 19, tbeff=18.4466, mhp=360, uncxsec=0.0156355, final xsec=0.0147379
+tanbeta = 19, tbeff=18.4466, mhp=380, uncxsec=0.0130997, final xsec=0.0123477
+tanbeta = 19, tbeff=18.4466, mhp=400, uncxsec=0.0109857, final xsec=0.0103551
+tanbeta = 19, tbeff=18.4466, mhp=420, uncxsec=0.00924254, final xsec=0.00871197
+tanbeta = 19, tbeff=18.4466, mhp=440, uncxsec=0.00782162, final xsec=0.00737262
+tanbeta = 19, tbeff=18.4466, mhp=460, uncxsec=0.00664488, final xsec=0.00626343
+tanbeta = 19, tbeff=18.4466, mhp=480, uncxsec=0.0056346, final xsec=0.00531114
+tanbeta = 19, tbeff=18.4466, mhp=500, uncxsec=0.00483017, final xsec=0.00455289
+tanbeta = 19, tbeff=18.4466, mhp=520, uncxsec=0.00413666, final xsec=0.00389919
+tanbeta = 19, tbeff=18.4466, mhp=540, uncxsec=0.00353289, final xsec=0.00333008
+tanbeta = 19, tbeff=18.4466, mhp=560, uncxsec=0.00303971, final xsec=0.00286521
+tanbeta = 19, tbeff=18.4466, mhp=580, uncxsec=0.00262917, final xsec=0.00247824
+tanbeta = 19, tbeff=18.4466, mhp=600, uncxsec=0.00227299, final xsec=0.00214251
+tan(beta) = 20
+Found delta_b=0.0640982 as corresponding to tb=20
+Computed tbeff=19.3883
+tanbeta = 20, tbeff=19.3883, mhp=200, uncxsec=0.0823647, final xsec=0.0774033
+tanbeta = 20, tbeff=19.3883, mhp=220, uncxsec=0.066095, final xsec=0.0621136
+tanbeta = 20, tbeff=19.3883, mhp=240, uncxsec=0.0540705, final xsec=0.0508134
+tanbeta = 20, tbeff=19.3883, mhp=260, uncxsec=0.0442104, final xsec=0.0415473
+tanbeta = 20, tbeff=19.3883, mhp=280, uncxsec=0.0364181, final xsec=0.0342244
+tanbeta = 20, tbeff=19.3883, mhp=300, uncxsec=0.0299853, final xsec=0.0281791
+tanbeta = 20, tbeff=19.3883, mhp=320, uncxsec=0.0248273, final xsec=0.0233318
+tanbeta = 20, tbeff=19.3883, mhp=340, uncxsec=0.0206767, final xsec=0.0194312
+tanbeta = 20, tbeff=19.3883, mhp=360, uncxsec=0.017282, final xsec=0.016241
+tanbeta = 20, tbeff=19.3883, mhp=380, uncxsec=0.014496, final xsec=0.0136228
+tanbeta = 20, tbeff=19.3883, mhp=400, uncxsec=0.0121477, final xsec=0.011416
+tanbeta = 20, tbeff=19.3883, mhp=420, uncxsec=0.0101997, final xsec=0.0095853
+tanbeta = 20, tbeff=19.3883, mhp=440, uncxsec=0.00865638, final xsec=0.00813494
+tanbeta = 20, tbeff=19.3883, mhp=460, uncxsec=0.00735358, final xsec=0.00691062
+tanbeta = 20, tbeff=19.3883, mhp=480, uncxsec=0.00623081, final xsec=0.00585548
+tanbeta = 20, tbeff=19.3883, mhp=500, uncxsec=0.00533959, final xsec=0.00501795
+tanbeta = 20, tbeff=19.3883, mhp=520, uncxsec=0.00457815, final xsec=0.00430238
+tanbeta = 20, tbeff=19.3883, mhp=540, uncxsec=0.00391217, final xsec=0.00367651
+tanbeta = 20, tbeff=19.3883, mhp=560, uncxsec=0.00336339, final xsec=0.00316079
+tanbeta = 20, tbeff=19.3883, mhp=580, uncxsec=0.00290825, final xsec=0.00273307
+tanbeta = 20, tbeff=19.3883, mhp=600, uncxsec=0.00251706, final xsec=0.00236544
+tan(beta) = 21
+Found delta_b=0.0672955 as corresponding to tb=21
+Computed tbeff=20.3272
+tanbeta = 21, tbeff=20.3272, mhp=200, uncxsec=0.0908203, final xsec=0.0850939
+tanbeta = 21, tbeff=20.3272, mhp=220, uncxsec=0.0728754, final xsec=0.0682804
+tanbeta = 21, tbeff=20.3272, mhp=240, uncxsec=0.0596339, final xsec=0.0558738
+tanbeta = 21, tbeff=20.3272, mhp=260, uncxsec=0.0487612, final xsec=0.0456867
+tanbeta = 21, tbeff=20.3272, mhp=280, uncxsec=0.0401484, final xsec=0.0376169
+tanbeta = 21, tbeff=20.3272, mhp=300, uncxsec=0.0330565, final xsec=0.0309722
+tanbeta = 21, tbeff=20.3272, mhp=320, uncxsec=0.0273661, final xsec=0.0256406
+tanbeta = 21, tbeff=20.3272, mhp=340, uncxsec=0.0227861, final xsec=0.0213494
+tanbeta = 21, tbeff=20.3272, mhp=360, uncxsec=0.0190298, final xsec=0.0178299
+tanbeta = 21, tbeff=20.3272, mhp=380, uncxsec=0.0159445, final xsec=0.0149392
+tanbeta = 21, tbeff=20.3272, mhp=400, uncxsec=0.0133741, final xsec=0.0125308
+tanbeta = 21, tbeff=20.3272, mhp=420, uncxsec=0.0112731, final xsec=0.0105623
+tanbeta = 21, tbeff=20.3272, mhp=440, uncxsec=0.00954225, final xsec=0.00894059
+tanbeta = 21, tbeff=20.3272, mhp=460, uncxsec=0.00809726, final xsec=0.00758671
+tanbeta = 21, tbeff=20.3272, mhp=480, uncxsec=0.00686935, final xsec=0.00643622
+tanbeta = 21, tbeff=20.3272, mhp=500, uncxsec=0.00588733, final xsec=0.00551612
+tanbeta = 21, tbeff=20.3272, mhp=520, uncxsec=0.0050425, final xsec=0.00472456
+tanbeta = 21, tbeff=20.3272, mhp=540, uncxsec=0.00431152, final xsec=0.00403967
+tanbeta = 21, tbeff=20.3272, mhp=560, uncxsec=0.00370495, final xsec=0.00347134
+tanbeta = 21, tbeff=20.3272, mhp=580, uncxsec=0.00320484, final xsec=0.00300277
+tanbeta = 21, tbeff=20.3272, mhp=600, uncxsec=0.00277379, final xsec=0.0025989
+tan(beta) = 22
+Found delta_b=0.0704932 as corresponding to tb=22
+Computed tbeff=21.2633
+tanbeta = 22, tbeff=21.2633, mhp=200, uncxsec=0.0908203, final xsec=0.0848397
+tanbeta = 22, tbeff=21.2633, mhp=220, uncxsec=0.0728754, final xsec=0.0680765
+tanbeta = 22, tbeff=21.2633, mhp=240, uncxsec=0.0596339, final xsec=0.0557069
+tanbeta = 22, tbeff=21.2633, mhp=260, uncxsec=0.0487612, final xsec=0.0455502
+tanbeta = 22, tbeff=21.2633, mhp=280, uncxsec=0.0401484, final xsec=0.0375046
+tanbeta = 22, tbeff=21.2633, mhp=300, uncxsec=0.0330565, final xsec=0.0308797
+tanbeta = 22, tbeff=21.2633, mhp=320, uncxsec=0.0273661, final xsec=0.025564
+tanbeta = 22, tbeff=21.2633, mhp=340, uncxsec=0.0227861, final xsec=0.0212856
+tanbeta = 22, tbeff=21.2633, mhp=360, uncxsec=0.0190298, final xsec=0.0177767
+tanbeta = 22, tbeff=21.2633, mhp=380, uncxsec=0.0159445, final xsec=0.0148945
+tanbeta = 22, tbeff=21.2633, mhp=400, uncxsec=0.0133741, final xsec=0.0124934
+tanbeta = 22, tbeff=21.2633, mhp=420, uncxsec=0.0112731, final xsec=0.0105308
+tanbeta = 22, tbeff=21.2633, mhp=440, uncxsec=0.00954225, final xsec=0.00891388
+tanbeta = 22, tbeff=21.2633, mhp=460, uncxsec=0.00809726, final xsec=0.00756405
+tanbeta = 22, tbeff=21.2633, mhp=480, uncxsec=0.00686935, final xsec=0.006417
+tanbeta = 22, tbeff=21.2633, mhp=500, uncxsec=0.00588733, final xsec=0.00549964
+tanbeta = 22, tbeff=21.2633, mhp=520, uncxsec=0.0050425, final xsec=0.00471045
+tanbeta = 22, tbeff=21.2633, mhp=540, uncxsec=0.00431152, final xsec=0.0040276
+tanbeta = 22, tbeff=21.2633, mhp=560, uncxsec=0.00370495, final xsec=0.00346097
+tanbeta = 22, tbeff=21.2633, mhp=580, uncxsec=0.00320484, final xsec=0.0029938
+tanbeta = 22, tbeff=21.2633, mhp=600, uncxsec=0.00277379, final xsec=0.00259113
+tan(beta) = 23
+Found delta_b=0.0736911 as corresponding to tb=23
+Computed tbeff=22.1967
+tanbeta = 23, tbeff=22.1967, mhp=200, uncxsec=0.0908203, final xsec=0.084587
+tanbeta = 23, tbeff=22.1967, mhp=220, uncxsec=0.0728754, final xsec=0.0678737
+tanbeta = 23, tbeff=22.1967, mhp=240, uncxsec=0.0596339, final xsec=0.055541
+tanbeta = 23, tbeff=22.1967, mhp=260, uncxsec=0.0487612, final xsec=0.0454146
+tanbeta = 23, tbeff=22.1967, mhp=280, uncxsec=0.0401484, final xsec=0.0373929
+tanbeta = 23, tbeff=22.1967, mhp=300, uncxsec=0.0330565, final xsec=0.0307877
+tanbeta = 23, tbeff=22.1967, mhp=320, uncxsec=0.0273661, final xsec=0.0254879
+tanbeta = 23, tbeff=22.1967, mhp=340, uncxsec=0.0227861, final xsec=0.0212222
+tanbeta = 23, tbeff=22.1967, mhp=360, uncxsec=0.0190298, final xsec=0.0177237
+tanbeta = 23, tbeff=22.1967, mhp=380, uncxsec=0.0159445, final xsec=0.0148502
+tanbeta = 23, tbeff=22.1967, mhp=400, uncxsec=0.0133741, final xsec=0.0124562
+tanbeta = 23, tbeff=22.1967, mhp=420, uncxsec=0.0112731, final xsec=0.0104994
+tanbeta = 23, tbeff=22.1967, mhp=440, uncxsec=0.00954225, final xsec=0.00888733
+tanbeta = 23, tbeff=22.1967, mhp=460, uncxsec=0.00809726, final xsec=0.00754152
+tanbeta = 23, tbeff=22.1967, mhp=480, uncxsec=0.00686935, final xsec=0.00639788
+tanbeta = 23, tbeff=22.1967, mhp=500, uncxsec=0.00588733, final xsec=0.00548326
+tanbeta = 23, tbeff=22.1967, mhp=520, uncxsec=0.0050425, final xsec=0.00469642
+tanbeta = 23, tbeff=22.1967, mhp=540, uncxsec=0.00431152, final xsec=0.00401561
+tanbeta = 23, tbeff=22.1967, mhp=560, uncxsec=0.00370495, final xsec=0.00345067
+tanbeta = 23, tbeff=22.1967, mhp=580, uncxsec=0.00320484, final xsec=0.00298488
+tanbeta = 23, tbeff=22.1967, mhp=600, uncxsec=0.00277379, final xsec=0.00258342
+tan(beta) = 24
+Found delta_b=0.0768893 as corresponding to tb=24
+Computed tbeff=23.1273
+tanbeta = 24, tbeff=23.1273, mhp=200, uncxsec=0.0908203, final xsec=0.0843358
+tanbeta = 24, tbeff=23.1273, mhp=220, uncxsec=0.0728754, final xsec=0.0676721
+tanbeta = 24, tbeff=23.1273, mhp=240, uncxsec=0.0596339, final xsec=0.0553761
+tanbeta = 24, tbeff=23.1273, mhp=260, uncxsec=0.0487612, final xsec=0.0452797
+tanbeta = 24, tbeff=23.1273, mhp=280, uncxsec=0.0401484, final xsec=0.0372818
+tanbeta = 24, tbeff=23.1273, mhp=300, uncxsec=0.0330565, final xsec=0.0306963
+tanbeta = 24, tbeff=23.1273, mhp=320, uncxsec=0.0273661, final xsec=0.0254122
+tanbeta = 24, tbeff=23.1273, mhp=340, uncxsec=0.0227861, final xsec=0.0211592
+tanbeta = 24, tbeff=23.1273, mhp=360, uncxsec=0.0190298, final xsec=0.0176711
+tanbeta = 24, tbeff=23.1273, mhp=380, uncxsec=0.0159445, final xsec=0.0148061
+tanbeta = 24, tbeff=23.1273, mhp=400, uncxsec=0.0133741, final xsec=0.0124192
+tanbeta = 24, tbeff=23.1273, mhp=420, uncxsec=0.0112731, final xsec=0.0104682
+tanbeta = 24, tbeff=23.1273, mhp=440, uncxsec=0.00954225, final xsec=0.00886094
+tanbeta = 24, tbeff=23.1273, mhp=460, uncxsec=0.00809726, final xsec=0.00751912
+tanbeta = 24, tbeff=23.1273, mhp=480, uncxsec=0.00686935, final xsec=0.00637888
+tanbeta = 24, tbeff=23.1273, mhp=500, uncxsec=0.00588733, final xsec=0.00546698
+tanbeta = 24, tbeff=23.1273, mhp=520, uncxsec=0.0050425, final xsec=0.00468247
+tanbeta = 24, tbeff=23.1273, mhp=540, uncxsec=0.00431152, final xsec=0.00400368
+tanbeta = 24, tbeff=23.1273, mhp=560, uncxsec=0.00370495, final xsec=0.00344042
+tanbeta = 24, tbeff=23.1273, mhp=580, uncxsec=0.00320484, final xsec=0.00297602
+tanbeta = 24, tbeff=23.1273, mhp=600, uncxsec=0.00277379, final xsec=0.00257574
+tan(beta) = 25
+Found delta_b=0.0800877 as corresponding to tb=25
+Computed tbeff=24.0553
+tanbeta = 25, tbeff=24.0553, mhp=200, uncxsec=0.0908203, final xsec=0.084086
+tanbeta = 25, tbeff=24.0553, mhp=220, uncxsec=0.0728754, final xsec=0.0674717
+tanbeta = 25, tbeff=24.0553, mhp=240, uncxsec=0.0596339, final xsec=0.0552121
+tanbeta = 25, tbeff=24.0553, mhp=260, uncxsec=0.0487612, final xsec=0.0451456
+tanbeta = 25, tbeff=24.0553, mhp=280, uncxsec=0.0401484, final xsec=0.0371714
+tanbeta = 25, tbeff=24.0553, mhp=300, uncxsec=0.0330565, final xsec=0.0306054
+tanbeta = 25, tbeff=24.0553, mhp=320, uncxsec=0.0273661, final xsec=0.0253369
+tanbeta = 25, tbeff=24.0553, mhp=340, uncxsec=0.0227861, final xsec=0.0210965
+tanbeta = 25, tbeff=24.0553, mhp=360, uncxsec=0.0190298, final xsec=0.0176188
+tanbeta = 25, tbeff=24.0553, mhp=380, uncxsec=0.0159445, final xsec=0.0147622
+tanbeta = 25, tbeff=24.0553, mhp=400, uncxsec=0.0133741, final xsec=0.0123824
+tanbeta = 25, tbeff=24.0553, mhp=420, uncxsec=0.0112731, final xsec=0.0104372
+tanbeta = 25, tbeff=24.0553, mhp=440, uncxsec=0.00954225, final xsec=0.0088347
+tanbeta = 25, tbeff=24.0553, mhp=460, uncxsec=0.00809726, final xsec=0.00749685
+tanbeta = 25, tbeff=24.0553, mhp=480, uncxsec=0.00686935, final xsec=0.00635999
+tanbeta = 25, tbeff=24.0553, mhp=500, uncxsec=0.00588733, final xsec=0.00545079
+tanbeta = 25, tbeff=24.0553, mhp=520, uncxsec=0.0050425, final xsec=0.0046686
+tanbeta = 25, tbeff=24.0553, mhp=540, uncxsec=0.00431152, final xsec=0.00399182
+tanbeta = 25, tbeff=24.0553, mhp=560, uncxsec=0.00370495, final xsec=0.00343023
+tanbeta = 25, tbeff=24.0553, mhp=580, uncxsec=0.00320484, final xsec=0.0029672
+tanbeta = 25, tbeff=24.0553, mhp=600, uncxsec=0.00277379, final xsec=0.00256812
+tan(beta) = 26
+Found delta_b=0.0832863 as corresponding to tb=26
+Computed tbeff=24.9805
+tanbeta = 26, tbeff=24.9805, mhp=200, uncxsec=0.0908203, final xsec=0.0838378
+tanbeta = 26, tbeff=24.9805, mhp=220, uncxsec=0.0728754, final xsec=0.0672725
+tanbeta = 26, tbeff=24.9805, mhp=240, uncxsec=0.0596339, final xsec=0.0550491
+tanbeta = 26, tbeff=24.9805, mhp=260, uncxsec=0.0487612, final xsec=0.0450123
+tanbeta = 26, tbeff=24.9805, mhp=280, uncxsec=0.0401484, final xsec=0.0370617
+tanbeta = 26, tbeff=24.9805, mhp=300, uncxsec=0.0330565, final xsec=0.030515
+tanbeta = 26, tbeff=24.9805, mhp=320, uncxsec=0.0273661, final xsec=0.0252621
+tanbeta = 26, tbeff=24.9805, mhp=340, uncxsec=0.0227861, final xsec=0.0210342
+tanbeta = 26, tbeff=24.9805, mhp=360, uncxsec=0.0190298, final xsec=0.0175667
+tanbeta = 26, tbeff=24.9805, mhp=380, uncxsec=0.0159445, final xsec=0.0147186
+tanbeta = 26, tbeff=24.9805, mhp=400, uncxsec=0.0133741, final xsec=0.0123459
+tanbeta = 26, tbeff=24.9805, mhp=420, uncxsec=0.0112731, final xsec=0.0104064
+tanbeta = 26, tbeff=24.9805, mhp=440, uncxsec=0.00954225, final xsec=0.00880861
+tanbeta = 26, tbeff=24.9805, mhp=460, uncxsec=0.00809726, final xsec=0.00747472
+tanbeta = 26, tbeff=24.9805, mhp=480, uncxsec=0.00686935, final xsec=0.00634121
+tanbeta = 26, tbeff=24.9805, mhp=500, uncxsec=0.00588733, final xsec=0.00543469
+tanbeta = 26, tbeff=24.9805, mhp=520, uncxsec=0.0050425, final xsec=0.00465482
+tanbeta = 26, tbeff=24.9805, mhp=540, uncxsec=0.00431152, final xsec=0.00398004
+tanbeta = 26, tbeff=24.9805, mhp=560, uncxsec=0.00370495, final xsec=0.0034201
+tanbeta = 26, tbeff=24.9805, mhp=580, uncxsec=0.00320484, final xsec=0.00295844
+tanbeta = 26, tbeff=24.9805, mhp=600, uncxsec=0.00277379, final xsec=0.00256053
+tan(beta) = 27
+Found delta_b=0.086485 as corresponding to tb=27
+Computed tbeff=25.9031
+tanbeta = 27, tbeff=25.9031, mhp=200, uncxsec=0.140294, final xsec=0.129126
+tanbeta = 27, tbeff=25.9031, mhp=220, uncxsec=0.112578, final xsec=0.103617
+tanbeta = 27, tbeff=25.9031, mhp=240, uncxsec=0.0919261, final xsec=0.0846087
+tanbeta = 27, tbeff=25.9031, mhp=260, uncxsec=0.0752153, final xsec=0.0692281
+tanbeta = 27, tbeff=25.9031, mhp=280, uncxsec=0.0618649, final xsec=0.0569404
+tanbeta = 27, tbeff=25.9031, mhp=300, uncxsec=0.050896, final xsec=0.0468446
+tanbeta = 27, tbeff=25.9031, mhp=320, uncxsec=0.0421831, final xsec=0.0388253
+tanbeta = 27, tbeff=25.9031, mhp=340, uncxsec=0.0351535, final xsec=0.0323553
+tanbeta = 27, tbeff=25.9031, mhp=360, uncxsec=0.0293453, final xsec=0.0270094
+tanbeta = 27, tbeff=25.9031, mhp=380, uncxsec=0.0245947, final xsec=0.0226369
+tanbeta = 27, tbeff=25.9031, mhp=400, uncxsec=0.0206246, final xsec=0.0189829
+tanbeta = 27, tbeff=25.9031, mhp=420, uncxsec=0.0173422, final xsec=0.0159617
+tanbeta = 27, tbeff=25.9031, mhp=440, uncxsec=0.0147124, final xsec=0.0135413
+tanbeta = 27, tbeff=25.9031, mhp=460, uncxsec=0.0124714, final xsec=0.0114787
+tanbeta = 27, tbeff=25.9031, mhp=480, uncxsec=0.0106001, final xsec=0.00975632
+tanbeta = 27, tbeff=25.9031, mhp=500, uncxsec=0.00906557, final xsec=0.00834394
+tanbeta = 27, tbeff=25.9031, mhp=520, uncxsec=0.00776704, final xsec=0.00714878
+tanbeta = 27, tbeff=25.9031, mhp=540, uncxsec=0.00663685, final xsec=0.00610855
+tanbeta = 27, tbeff=25.9031, mhp=560, uncxsec=0.00570811, final xsec=0.00525374
+tanbeta = 27, tbeff=25.9031, mhp=580, uncxsec=0.00493186, final xsec=0.00453928
+tanbeta = 27, tbeff=25.9031, mhp=600, uncxsec=0.00427164, final xsec=0.00393161
+tan(beta) = 28
+Found delta_b=0.0896839 as corresponding to tb=28
+Computed tbeff=26.823
+tanbeta = 28, tbeff=26.823, mhp=200, uncxsec=0.140294, final xsec=0.128747
+tanbeta = 28, tbeff=26.823, mhp=220, uncxsec=0.112578, final xsec=0.103313
+tanbeta = 28, tbeff=26.823, mhp=240, uncxsec=0.0919261, final xsec=0.0843603
+tanbeta = 28, tbeff=26.823, mhp=260, uncxsec=0.0752153, final xsec=0.0690249
+tanbeta = 28, tbeff=26.823, mhp=280, uncxsec=0.0618649, final xsec=0.0567733
+tanbeta = 28, tbeff=26.823, mhp=300, uncxsec=0.050896, final xsec=0.0467071
+tanbeta = 28, tbeff=26.823, mhp=320, uncxsec=0.0421831, final xsec=0.0387113
+tanbeta = 28, tbeff=26.823, mhp=340, uncxsec=0.0351535, final xsec=0.0322603
+tanbeta = 28, tbeff=26.823, mhp=360, uncxsec=0.0293453, final xsec=0.0269301
+tanbeta = 28, tbeff=26.823, mhp=380, uncxsec=0.0245947, final xsec=0.0225705
+tanbeta = 28, tbeff=26.823, mhp=400, uncxsec=0.0206246, final xsec=0.0189271
+tanbeta = 28, tbeff=26.823, mhp=420, uncxsec=0.0173422, final xsec=0.0159149
+tanbeta = 28, tbeff=26.823, mhp=440, uncxsec=0.0147124, final xsec=0.0135015
+tanbeta = 28, tbeff=26.823, mhp=460, uncxsec=0.0124714, final xsec=0.011445
+tanbeta = 28, tbeff=26.823, mhp=480, uncxsec=0.0106001, final xsec=0.00972768
+tanbeta = 28, tbeff=26.823, mhp=500, uncxsec=0.00906557, final xsec=0.00831945
+tanbeta = 28, tbeff=26.823, mhp=520, uncxsec=0.00776704, final xsec=0.00712779
+tanbeta = 28, tbeff=26.823, mhp=540, uncxsec=0.00663685, final xsec=0.00609062
+tanbeta = 28, tbeff=26.823, mhp=560, uncxsec=0.00570811, final xsec=0.00523832
+tanbeta = 28, tbeff=26.823, mhp=580, uncxsec=0.00493186, final xsec=0.00452595
+tanbeta = 28, tbeff=26.823, mhp=600, uncxsec=0.00427164, final xsec=0.00392007
+tan(beta) = 29
+Found delta_b=0.092883 as corresponding to tb=29
+Computed tbeff=27.7403
+tanbeta = 29, tbeff=27.7403, mhp=200, uncxsec=0.140294, final xsec=0.128371
+tanbeta = 29, tbeff=27.7403, mhp=220, uncxsec=0.112578, final xsec=0.10301
+tanbeta = 29, tbeff=27.7403, mhp=240, uncxsec=0.0919261, final xsec=0.0841134
+tanbeta = 29, tbeff=27.7403, mhp=260, uncxsec=0.0752153, final xsec=0.0688228
+tanbeta = 29, tbeff=27.7403, mhp=280, uncxsec=0.0618649, final xsec=0.0566071
+tanbeta = 29, tbeff=27.7403, mhp=300, uncxsec=0.050896, final xsec=0.0465704
+tanbeta = 29, tbeff=27.7403, mhp=320, uncxsec=0.0421831, final xsec=0.038598
+tanbeta = 29, tbeff=27.7403, mhp=340, uncxsec=0.0351535, final xsec=0.0321658
+tanbeta = 29, tbeff=27.7403, mhp=360, uncxsec=0.0293453, final xsec=0.0268513
+tanbeta = 29, tbeff=27.7403, mhp=380, uncxsec=0.0245947, final xsec=0.0225044
+tanbeta = 29, tbeff=27.7403, mhp=400, uncxsec=0.0206246, final xsec=0.0188717
+tanbeta = 29, tbeff=27.7403, mhp=420, uncxsec=0.0173422, final xsec=0.0158683
+tanbeta = 29, tbeff=27.7403, mhp=440, uncxsec=0.0147124, final xsec=0.013462
+tanbeta = 29, tbeff=27.7403, mhp=460, uncxsec=0.0124714, final xsec=0.0114115
+tanbeta = 29, tbeff=27.7403, mhp=480, uncxsec=0.0106001, final xsec=0.00969921
+tanbeta = 29, tbeff=27.7403, mhp=500, uncxsec=0.00906557, final xsec=0.0082951
+tanbeta = 29, tbeff=27.7403, mhp=520, uncxsec=0.00776704, final xsec=0.00710693
+tanbeta = 29, tbeff=27.7403, mhp=540, uncxsec=0.00663685, final xsec=0.00607279
+tanbeta = 29, tbeff=27.7403, mhp=560, uncxsec=0.00570811, final xsec=0.00522298
+tanbeta = 29, tbeff=27.7403, mhp=580, uncxsec=0.00493186, final xsec=0.00451271
+tanbeta = 29, tbeff=27.7403, mhp=600, uncxsec=0.00427164, final xsec=0.0039086
+tan(beta) = 30
+Found delta_b=0.0960821 as corresponding to tb=30
+Computed tbeff=28.655
+tanbeta = 30, tbeff=28.655, mhp=200, uncxsec=0.140294, final xsec=0.127996
+tanbeta = 30, tbeff=28.655, mhp=220, uncxsec=0.112578, final xsec=0.102709
+tanbeta = 30, tbeff=28.655, mhp=240, uncxsec=0.0919261, final xsec=0.0838679
+tanbeta = 30, tbeff=28.655, mhp=260, uncxsec=0.0752153, final xsec=0.068622
+tanbeta = 30, tbeff=28.655, mhp=280, uncxsec=0.0618649, final xsec=0.0564418
+tanbeta = 30, tbeff=28.655, mhp=300, uncxsec=0.050896, final xsec=0.0464345
+tanbeta = 30, tbeff=28.655, mhp=320, uncxsec=0.0421831, final xsec=0.0384853
+tanbeta = 30, tbeff=28.655, mhp=340, uncxsec=0.0351535, final xsec=0.032072
+tanbeta = 30, tbeff=28.655, mhp=360, uncxsec=0.0293453, final xsec=0.0267729
+tanbeta = 30, tbeff=28.655, mhp=380, uncxsec=0.0245947, final xsec=0.0224387
+tanbeta = 30, tbeff=28.655, mhp=400, uncxsec=0.0206246, final xsec=0.0188167
+tanbeta = 30, tbeff=28.655, mhp=420, uncxsec=0.0173422, final xsec=0.015822
+tanbeta = 30, tbeff=28.655, mhp=440, uncxsec=0.0147124, final xsec=0.0134227
+tanbeta = 30, tbeff=28.655, mhp=460, uncxsec=0.0124714, final xsec=0.0113782
+tanbeta = 30, tbeff=28.655, mhp=480, uncxsec=0.0106001, final xsec=0.0096709
+tanbeta = 30, tbeff=28.655, mhp=500, uncxsec=0.00906557, final xsec=0.00827089
+tanbeta = 30, tbeff=28.655, mhp=520, uncxsec=0.00776704, final xsec=0.00708618
+tanbeta = 30, tbeff=28.655, mhp=540, uncxsec=0.00663685, final xsec=0.00605507
+tanbeta = 30, tbeff=28.655, mhp=560, uncxsec=0.00570811, final xsec=0.00520774
+tanbeta = 30, tbeff=28.655, mhp=580, uncxsec=0.00493186, final xsec=0.00449954
+tanbeta = 30, tbeff=28.655, mhp=600, uncxsec=0.00427164, final xsec=0.00389719
+tan(beta) = 31
+Found delta_b=0.0992814 as corresponding to tb=31
+Computed tbeff=29.567
+tanbeta = 31, tbeff=29.567, mhp=200, uncxsec=0.140294, final xsec=0.127623
+tanbeta = 31, tbeff=29.567, mhp=220, uncxsec=0.112578, final xsec=0.102411
+tanbeta = 31, tbeff=29.567, mhp=240, uncxsec=0.0919261, final xsec=0.0836238
+tanbeta = 31, tbeff=29.567, mhp=260, uncxsec=0.0752153, final xsec=0.0684222
+tanbeta = 31, tbeff=29.567, mhp=280, uncxsec=0.0618649, final xsec=0.0562776
+tanbeta = 31, tbeff=29.567, mhp=300, uncxsec=0.050896, final xsec=0.0462993
+tanbeta = 31, tbeff=29.567, mhp=320, uncxsec=0.0421831, final xsec=0.0383733
+tanbeta = 31, tbeff=29.567, mhp=340, uncxsec=0.0351535, final xsec=0.0319786
+tanbeta = 31, tbeff=29.567, mhp=360, uncxsec=0.0293453, final xsec=0.026695
+tanbeta = 31, tbeff=29.567, mhp=380, uncxsec=0.0245947, final xsec=0.0223734
+tanbeta = 31, tbeff=29.567, mhp=400, uncxsec=0.0206246, final xsec=0.0187619
+tanbeta = 31, tbeff=29.567, mhp=420, uncxsec=0.0173422, final xsec=0.0157759
+tanbeta = 31, tbeff=29.567, mhp=440, uncxsec=0.0147124, final xsec=0.0133837
+tanbeta = 31, tbeff=29.567, mhp=460, uncxsec=0.0124714, final xsec=0.011345
+tanbeta = 31, tbeff=29.567, mhp=480, uncxsec=0.0106001, final xsec=0.00964275
+tanbeta = 31, tbeff=29.567, mhp=500, uncxsec=0.00906557, final xsec=0.00824681
+tanbeta = 31, tbeff=29.567, mhp=520, uncxsec=0.00776704, final xsec=0.00706556
+tanbeta = 31, tbeff=29.567, mhp=540, uncxsec=0.00663685, final xsec=0.00603744
+tanbeta = 31, tbeff=29.567, mhp=560, uncxsec=0.00570811, final xsec=0.00519258
+tanbeta = 31, tbeff=29.567, mhp=580, uncxsec=0.00493186, final xsec=0.00448644
+tanbeta = 31, tbeff=29.567, mhp=600, uncxsec=0.00427164, final xsec=0.00388585
+tan(beta) = 32
+Found delta_b=0.102481 as corresponding to tb=32
+Computed tbeff=30.4765
+tanbeta = 32, tbeff=30.4765, mhp=200, uncxsec=0.201433, final xsec=0.182709
+tanbeta = 32, tbeff=30.4765, mhp=220, uncxsec=0.161112, final xsec=0.146136
+tanbeta = 32, tbeff=30.4765, mhp=240, uncxsec=0.131807, final xsec=0.119555
+tanbeta = 32, tbeff=30.4765, mhp=260, uncxsec=0.10782, final xsec=0.0977976
+tanbeta = 32, tbeff=30.4765, mhp=280, uncxsec=0.0885268, final xsec=0.0802978
+tanbeta = 32, tbeff=30.4765, mhp=300, uncxsec=0.073019, final xsec=0.0662315
+tanbeta = 32, tbeff=30.4765, mhp=320, uncxsec=0.060488, final xsec=0.0548654
+tanbeta = 32, tbeff=30.4765, mhp=340, uncxsec=0.0503769, final xsec=0.0456941
+tanbeta = 32, tbeff=30.4765, mhp=360, uncxsec=0.0420822, final xsec=0.0381705
+tanbeta = 32, tbeff=30.4765, mhp=380, uncxsec=0.0352484, final xsec=0.0319719
+tanbeta = 32, tbeff=30.4765, mhp=400, uncxsec=0.0295398, final xsec=0.0267939
+tanbeta = 32, tbeff=30.4765, mhp=420, uncxsec=0.0249027, final xsec=0.0225879
+tanbeta = 32, tbeff=30.4765, mhp=440, uncxsec=0.0210732, final xsec=0.0191143
+tanbeta = 32, tbeff=30.4765, mhp=460, uncxsec=0.0178623, final xsec=0.0162019
+tanbeta = 32, tbeff=30.4765, mhp=480, uncxsec=0.0151641, final xsec=0.0137545
+tanbeta = 32, tbeff=30.4765, mhp=500, uncxsec=0.0129822, final xsec=0.0117754
+tanbeta = 32, tbeff=30.4765, mhp=520, uncxsec=0.0111168, final xsec=0.0100834
+tanbeta = 32, tbeff=30.4765, mhp=540, uncxsec=0.00950962, final xsec=0.00862566
+tanbeta = 32, tbeff=30.4765, mhp=560, uncxsec=0.00818564, final xsec=0.00742475
+tanbeta = 32, tbeff=30.4765, mhp=580, uncxsec=0.00706841, final xsec=0.00641137
+tanbeta = 32, tbeff=30.4765, mhp=600, uncxsec=0.00612175, final xsec=0.0055527
+tan(beta) = 33
+Found delta_b=0.10568 as corresponding to tb=33
+Computed tbeff=31.3833
+tanbeta = 33, tbeff=31.3833, mhp=200, uncxsec=0.201433, final xsec=0.18218
+tanbeta = 33, tbeff=31.3833, mhp=220, uncxsec=0.161112, final xsec=0.145713
+tanbeta = 33, tbeff=31.3833, mhp=240, uncxsec=0.131807, final xsec=0.119209
+tanbeta = 33, tbeff=31.3833, mhp=260, uncxsec=0.10782, final xsec=0.0975146
+tanbeta = 33, tbeff=31.3833, mhp=280, uncxsec=0.0885268, final xsec=0.0800655
+tanbeta = 33, tbeff=31.3833, mhp=300, uncxsec=0.073019, final xsec=0.0660399
+tanbeta = 33, tbeff=31.3833, mhp=320, uncxsec=0.060488, final xsec=0.0547066
+tanbeta = 33, tbeff=31.3833, mhp=340, uncxsec=0.0503769, final xsec=0.0455619
+tanbeta = 33, tbeff=31.3833, mhp=360, uncxsec=0.0420822, final xsec=0.03806
+tanbeta = 33, tbeff=31.3833, mhp=380, uncxsec=0.0352484, final xsec=0.0318794
+tanbeta = 33, tbeff=31.3833, mhp=400, uncxsec=0.0295398, final xsec=0.0267164
+tanbeta = 33, tbeff=31.3833, mhp=420, uncxsec=0.0249027, final xsec=0.0225225
+tanbeta = 33, tbeff=31.3833, mhp=440, uncxsec=0.0210732, final xsec=0.019059
+tanbeta = 33, tbeff=31.3833, mhp=460, uncxsec=0.0178623, final xsec=0.016155
+tanbeta = 33, tbeff=31.3833, mhp=480, uncxsec=0.0151641, final xsec=0.0137147
+tanbeta = 33, tbeff=31.3833, mhp=500, uncxsec=0.0129822, final xsec=0.0117414
+tanbeta = 33, tbeff=31.3833, mhp=520, uncxsec=0.0111168, final xsec=0.0100543
+tanbeta = 33, tbeff=31.3833, mhp=540, uncxsec=0.00950962, final xsec=0.0086007
+tanbeta = 33, tbeff=31.3833, mhp=560, uncxsec=0.00818564, final xsec=0.00740326
+tanbeta = 33, tbeff=31.3833, mhp=580, uncxsec=0.00706841, final xsec=0.00639282
+tanbeta = 33, tbeff=31.3833, mhp=600, uncxsec=0.00612175, final xsec=0.00553664
+tan(beta) = 34
+Found delta_b=0.10888 as corresponding to tb=34
+Computed tbeff=32.2877
+tanbeta = 34, tbeff=32.2877, mhp=200, uncxsec=0.201433, final xsec=0.181655
+tanbeta = 34, tbeff=32.2877, mhp=220, uncxsec=0.161112, final xsec=0.145293
+tanbeta = 34, tbeff=32.2877, mhp=240, uncxsec=0.131807, final xsec=0.118865
+tanbeta = 34, tbeff=32.2877, mhp=260, uncxsec=0.10782, final xsec=0.0972333
+tanbeta = 34, tbeff=32.2877, mhp=280, uncxsec=0.0885268, final xsec=0.0798345
+tanbeta = 34, tbeff=32.2877, mhp=300, uncxsec=0.073019, final xsec=0.0658493
+tanbeta = 34, tbeff=32.2877, mhp=320, uncxsec=0.060488, final xsec=0.0545488
+tanbeta = 34, tbeff=32.2877, mhp=340, uncxsec=0.0503769, final xsec=0.0454305
+tanbeta = 34, tbeff=32.2877, mhp=360, uncxsec=0.0420822, final xsec=0.0379502
+tanbeta = 34, tbeff=32.2877, mhp=380, uncxsec=0.0352484, final xsec=0.0317874
+tanbeta = 34, tbeff=32.2877, mhp=400, uncxsec=0.0295398, final xsec=0.0266393
+tanbeta = 34, tbeff=32.2877, mhp=420, uncxsec=0.0249027, final xsec=0.0224575
+tanbeta = 34, tbeff=32.2877, mhp=440, uncxsec=0.0210732, final xsec=0.019004
+tanbeta = 34, tbeff=32.2877, mhp=460, uncxsec=0.0178623, final xsec=0.0161084
+tanbeta = 34, tbeff=32.2877, mhp=480, uncxsec=0.0151641, final xsec=0.0136752
+tanbeta = 34, tbeff=32.2877, mhp=500, uncxsec=0.0129822, final xsec=0.0117075
+tanbeta = 34, tbeff=32.2877, mhp=520, uncxsec=0.0111168, final xsec=0.0100253
+tanbeta = 34, tbeff=32.2877, mhp=540, uncxsec=0.00950962, final xsec=0.00857588
+tanbeta = 34, tbeff=32.2877, mhp=560, uncxsec=0.00818564, final xsec=0.0073819
+tanbeta = 34, tbeff=32.2877, mhp=580, uncxsec=0.00706841, final xsec=0.00637437
+tanbeta = 34, tbeff=32.2877, mhp=600, uncxsec=0.00612175, final xsec=0.00552066
+tan(beta) = 35
+Found delta_b=0.112079 as corresponding to tb=35
+Computed tbeff=33.1895
+tanbeta = 35, tbeff=33.1895, mhp=200, uncxsec=0.201433, final xsec=0.181132
+tanbeta = 35, tbeff=33.1895, mhp=220, uncxsec=0.161112, final xsec=0.144875
+tanbeta = 35, tbeff=33.1895, mhp=240, uncxsec=0.131807, final xsec=0.118523
+tanbeta = 35, tbeff=33.1895, mhp=260, uncxsec=0.10782, final xsec=0.0969535
+tanbeta = 35, tbeff=33.1895, mhp=280, uncxsec=0.0885268, final xsec=0.0796048
+tanbeta = 35, tbeff=33.1895, mhp=300, uncxsec=0.073019, final xsec=0.0656599
+tanbeta = 35, tbeff=33.1895, mhp=320, uncxsec=0.060488, final xsec=0.0543918
+tanbeta = 35, tbeff=33.1895, mhp=340, uncxsec=0.0503769, final xsec=0.0452997
+tanbeta = 35, tbeff=33.1895, mhp=360, uncxsec=0.0420822, final xsec=0.037841
+tanbeta = 35, tbeff=33.1895, mhp=380, uncxsec=0.0352484, final xsec=0.0316959
+tanbeta = 35, tbeff=33.1895, mhp=400, uncxsec=0.0295398, final xsec=0.0265627
+tanbeta = 35, tbeff=33.1895, mhp=420, uncxsec=0.0249027, final xsec=0.0223929
+tanbeta = 35, tbeff=33.1895, mhp=440, uncxsec=0.0210732, final xsec=0.0189494
+tanbeta = 35, tbeff=33.1895, mhp=460, uncxsec=0.0178623, final xsec=0.0160621
+tanbeta = 35, tbeff=33.1895, mhp=480, uncxsec=0.0151641, final xsec=0.0136358
+tanbeta = 35, tbeff=33.1895, mhp=500, uncxsec=0.0129822, final xsec=0.0116738
+tanbeta = 35, tbeff=33.1895, mhp=520, uncxsec=0.0111168, final xsec=0.00999641
+tanbeta = 35, tbeff=33.1895, mhp=540, uncxsec=0.00950962, final xsec=0.00855121
+tanbeta = 35, tbeff=33.1895, mhp=560, uncxsec=0.00818564, final xsec=0.00736066
+tanbeta = 35, tbeff=33.1895, mhp=580, uncxsec=0.00706841, final xsec=0.00635603
+tanbeta = 35, tbeff=33.1895, mhp=600, uncxsec=0.00612175, final xsec=0.00550478
+tan(beta) = 36
+Found delta_b=0.115279 as corresponding to tb=36
+Computed tbeff=34.0887
+tanbeta = 36, tbeff=34.0887, mhp=200, uncxsec=0.201433, final xsec=0.180612
+tanbeta = 36, tbeff=34.0887, mhp=220, uncxsec=0.161112, final xsec=0.144459
+tanbeta = 36, tbeff=34.0887, mhp=240, uncxsec=0.131807, final xsec=0.118183
+tanbeta = 36, tbeff=34.0887, mhp=260, uncxsec=0.10782, final xsec=0.0966754
+tanbeta = 36, tbeff=34.0887, mhp=280, uncxsec=0.0885268, final xsec=0.0793764
+tanbeta = 36, tbeff=34.0887, mhp=300, uncxsec=0.073019, final xsec=0.0654715
+tanbeta = 36, tbeff=34.0887, mhp=320, uncxsec=0.060488, final xsec=0.0542358
+tanbeta = 36, tbeff=34.0887, mhp=340, uncxsec=0.0503769, final xsec=0.0451698
+tanbeta = 36, tbeff=34.0887, mhp=360, uncxsec=0.0420822, final xsec=0.0377324
+tanbeta = 36, tbeff=34.0887, mhp=380, uncxsec=0.0352484, final xsec=0.031605
+tanbeta = 36, tbeff=34.0887, mhp=400, uncxsec=0.0295398, final xsec=0.0264865
+tanbeta = 36, tbeff=34.0887, mhp=420, uncxsec=0.0249027, final xsec=0.0223287
+tanbeta = 36, tbeff=34.0887, mhp=440, uncxsec=0.0210732, final xsec=0.018895
+tanbeta = 36, tbeff=34.0887, mhp=460, uncxsec=0.0178623, final xsec=0.016016
+tanbeta = 36, tbeff=34.0887, mhp=480, uncxsec=0.0151641, final xsec=0.0135967
+tanbeta = 36, tbeff=34.0887, mhp=500, uncxsec=0.0129822, final xsec=0.0116403
+tanbeta = 36, tbeff=34.0887, mhp=520, uncxsec=0.0111168, final xsec=0.00996773
+tanbeta = 36, tbeff=34.0887, mhp=540, uncxsec=0.00950962, final xsec=0.00852667
+tanbeta = 36, tbeff=34.0887, mhp=560, uncxsec=0.00818564, final xsec=0.00733955
+tanbeta = 36, tbeff=34.0887, mhp=580, uncxsec=0.00706841, final xsec=0.0063378
+tanbeta = 36, tbeff=34.0887, mhp=600, uncxsec=0.00612175, final xsec=0.00548899
+tan(beta) = 37
+Found delta_b=0.118478 as corresponding to tb=37
+Computed tbeff=34.9855
+tanbeta = 37, tbeff=34.9855, mhp=200, uncxsec=0.201433, final xsec=0.180096
+tanbeta = 37, tbeff=34.9855, mhp=220, uncxsec=0.161112, final xsec=0.144046
+tanbeta = 37, tbeff=34.9855, mhp=240, uncxsec=0.131807, final xsec=0.117845
+tanbeta = 37, tbeff=34.9855, mhp=260, uncxsec=0.10782, final xsec=0.0963988
+tanbeta = 37, tbeff=34.9855, mhp=280, uncxsec=0.0885268, final xsec=0.0791493
+tanbeta = 37, tbeff=34.9855, mhp=300, uncxsec=0.073019, final xsec=0.0652842
+tanbeta = 37, tbeff=34.9855, mhp=320, uncxsec=0.060488, final xsec=0.0540806
+tanbeta = 37, tbeff=34.9855, mhp=340, uncxsec=0.0503769, final xsec=0.0450406
+tanbeta = 37, tbeff=34.9855, mhp=360, uncxsec=0.0420822, final xsec=0.0376245
+tanbeta = 37, tbeff=34.9855, mhp=380, uncxsec=0.0352484, final xsec=0.0315146
+tanbeta = 37, tbeff=34.9855, mhp=400, uncxsec=0.0295398, final xsec=0.0264107
+tanbeta = 37, tbeff=34.9855, mhp=420, uncxsec=0.0249027, final xsec=0.0222648
+tanbeta = 37, tbeff=34.9855, mhp=440, uncxsec=0.0210732, final xsec=0.018841
+tanbeta = 37, tbeff=34.9855, mhp=460, uncxsec=0.0178623, final xsec=0.0159702
+tanbeta = 37, tbeff=34.9855, mhp=480, uncxsec=0.0151641, final xsec=0.0135578
+tanbeta = 37, tbeff=34.9855, mhp=500, uncxsec=0.0129822, final xsec=0.011607
+tanbeta = 37, tbeff=34.9855, mhp=520, uncxsec=0.0111168, final xsec=0.00993922
+tanbeta = 37, tbeff=34.9855, mhp=540, uncxsec=0.00950962, final xsec=0.00850229
+tanbeta = 37, tbeff=34.9855, mhp=560, uncxsec=0.00818564, final xsec=0.00731855
+tanbeta = 37, tbeff=34.9855, mhp=580, uncxsec=0.00706841, final xsec=0.00631967
+tanbeta = 37, tbeff=34.9855, mhp=600, uncxsec=0.00612175, final xsec=0.00547329
+tan(beta) = 38
+Found delta_b=0.121678 as corresponding to tb=38
+Computed tbeff=35.8798
+tanbeta = 38, tbeff=35.8798, mhp=200, uncxsec=0.273324, final xsec=0.243674
+tanbeta = 38, tbeff=35.8798, mhp=220, uncxsec=0.218951, final xsec=0.1952
+tanbeta = 38, tbeff=35.8798, mhp=240, uncxsec=0.179206, final xsec=0.159766
+tanbeta = 38, tbeff=35.8798, mhp=260, uncxsec=0.146049, final xsec=0.130206
+tanbeta = 38, tbeff=35.8798, mhp=280, uncxsec=0.120286, final xsec=0.107238
+tanbeta = 38, tbeff=35.8798, mhp=300, uncxsec=0.099172, final xsec=0.088414
+tanbeta = 38, tbeff=35.8798, mhp=320, uncxsec=0.0821201, final xsec=0.0732118
+tanbeta = 38, tbeff=35.8798, mhp=340, uncxsec=0.0684003, final xsec=0.0609803
+tanbeta = 38, tbeff=35.8798, mhp=360, uncxsec=0.0571688, final xsec=0.0509672
+tanbeta = 38, tbeff=35.8798, mhp=380, uncxsec=0.0478797, final xsec=0.0426858
+tanbeta = 38, tbeff=35.8798, mhp=400, uncxsec=0.0401155, final xsec=0.0357638
+tanbeta = 38, tbeff=35.8798, mhp=420, uncxsec=0.0337748, final xsec=0.030111
+tanbeta = 38, tbeff=35.8798, mhp=440, uncxsec=0.0286069, final xsec=0.0255037
+tanbeta = 38, tbeff=35.8798, mhp=460, uncxsec=0.0243017, final xsec=0.0216655
+tanbeta = 38, tbeff=35.8798, mhp=480, uncxsec=0.0205622, final xsec=0.0183316
+tanbeta = 38, tbeff=35.8798, mhp=500, uncxsec=0.0176628, final xsec=0.0157468
+tanbeta = 38, tbeff=35.8798, mhp=520, uncxsec=0.0151154, final xsec=0.0134757
+tanbeta = 38, tbeff=35.8798, mhp=540, uncxsec=0.0129198, final xsec=0.0115183
+tanbeta = 38, tbeff=35.8798, mhp=560, uncxsec=0.0111052, final xsec=0.00990053
+tanbeta = 38, tbeff=35.8798, mhp=580, uncxsec=0.00959729, final xsec=0.00855619
+tanbeta = 38, tbeff=35.8798, mhp=600, uncxsec=0.00830664, final xsec=0.00740555
+tan(beta) = 39
+Found delta_b=0.124878 as corresponding to tb=39
+Computed tbeff=36.7716
+tanbeta = 39, tbeff=36.7716, mhp=200, uncxsec=0.273324, final xsec=0.242981
+tanbeta = 39, tbeff=36.7716, mhp=220, uncxsec=0.218951, final xsec=0.194644
+tanbeta = 39, tbeff=36.7716, mhp=240, uncxsec=0.179206, final xsec=0.159312
+tanbeta = 39, tbeff=36.7716, mhp=260, uncxsec=0.146049, final xsec=0.129835
+tanbeta = 39, tbeff=36.7716, mhp=280, uncxsec=0.120286, final xsec=0.106933
+tanbeta = 39, tbeff=36.7716, mhp=300, uncxsec=0.099172, final xsec=0.0881625
+tanbeta = 39, tbeff=36.7716, mhp=320, uncxsec=0.0821201, final xsec=0.0730036
+tanbeta = 39, tbeff=36.7716, mhp=340, uncxsec=0.0684003, final xsec=0.0608069
+tanbeta = 39, tbeff=36.7716, mhp=360, uncxsec=0.0571688, final xsec=0.0508222
+tanbeta = 39, tbeff=36.7716, mhp=380, uncxsec=0.0478797, final xsec=0.0425644
+tanbeta = 39, tbeff=36.7716, mhp=400, uncxsec=0.0401155, final xsec=0.0356621
+tanbeta = 39, tbeff=36.7716, mhp=420, uncxsec=0.0337748, final xsec=0.0300253
+tanbeta = 39, tbeff=36.7716, mhp=440, uncxsec=0.0286069, final xsec=0.0254311
+tanbeta = 39, tbeff=36.7716, mhp=460, uncxsec=0.0243017, final xsec=0.0216039
+tanbeta = 39, tbeff=36.7716, mhp=480, uncxsec=0.0205622, final xsec=0.0182795
+tanbeta = 39, tbeff=36.7716, mhp=500, uncxsec=0.0176628, final xsec=0.015702
+tanbeta = 39, tbeff=36.7716, mhp=520, uncxsec=0.0151154, final xsec=0.0134374
+tanbeta = 39, tbeff=36.7716, mhp=540, uncxsec=0.0129198, final xsec=0.0114855
+tanbeta = 39, tbeff=36.7716, mhp=560, uncxsec=0.0111052, final xsec=0.00987236
+tanbeta = 39, tbeff=36.7716, mhp=580, uncxsec=0.00959729, final xsec=0.00853185
+tanbeta = 39, tbeff=36.7716, mhp=600, uncxsec=0.00830664, final xsec=0.00738448
+tan(beta) = 40
+Found delta_b=0.128077 as corresponding to tb=40
+Computed tbeff=37.6609
+tanbeta = 40, tbeff=37.6609, mhp=200, uncxsec=0.273324, final xsec=0.242292
+tanbeta = 40, tbeff=37.6609, mhp=220, uncxsec=0.218951, final xsec=0.194092
+tanbeta = 40, tbeff=37.6609, mhp=240, uncxsec=0.179206, final xsec=0.15886
+tanbeta = 40, tbeff=37.6609, mhp=260, uncxsec=0.146049, final xsec=0.129467
+tanbeta = 40, tbeff=37.6609, mhp=280, uncxsec=0.120286, final xsec=0.106629
+tanbeta = 40, tbeff=37.6609, mhp=300, uncxsec=0.099172, final xsec=0.0879124
+tanbeta = 40, tbeff=37.6609, mhp=320, uncxsec=0.0821201, final xsec=0.0727965
+tanbeta = 40, tbeff=37.6609, mhp=340, uncxsec=0.0684003, final xsec=0.0606344
+tanbeta = 40, tbeff=37.6609, mhp=360, uncxsec=0.0571688, final xsec=0.0506781
+tanbeta = 40, tbeff=37.6609, mhp=380, uncxsec=0.0478797, final xsec=0.0424436
+tanbeta = 40, tbeff=37.6609, mhp=400, uncxsec=0.0401155, final xsec=0.0355609
+tanbeta = 40, tbeff=37.6609, mhp=420, uncxsec=0.0337748, final xsec=0.0299401
+tanbeta = 40, tbeff=37.6609, mhp=440, uncxsec=0.0286069, final xsec=0.025359
+tanbeta = 40, tbeff=37.6609, mhp=460, uncxsec=0.0243017, final xsec=0.0215426
+tanbeta = 40, tbeff=37.6609, mhp=480, uncxsec=0.0205622, final xsec=0.0182276
+tanbeta = 40, tbeff=37.6609, mhp=500, uncxsec=0.0176628, final xsec=0.0156574
+tanbeta = 40, tbeff=37.6609, mhp=520, uncxsec=0.0151154, final xsec=0.0133993
+tanbeta = 40, tbeff=37.6609, mhp=540, uncxsec=0.0129198, final xsec=0.0114529
+tanbeta = 40, tbeff=37.6609, mhp=560, uncxsec=0.0111052, final xsec=0.00984436
+tanbeta = 40, tbeff=37.6609, mhp=580, uncxsec=0.00959729, final xsec=0.00850765
+tanbeta = 40, tbeff=37.6609, mhp=600, uncxsec=0.00830664, final xsec=0.00736354
+tan(beta) = 41
+Found delta_b=0.131277 as corresponding to tb=41
+Computed tbeff=38.5478
+tanbeta = 41, tbeff=38.5478, mhp=200, uncxsec=0.273324, final xsec=0.241607
+tanbeta = 41, tbeff=38.5478, mhp=220, uncxsec=0.218951, final xsec=0.193543
+tanbeta = 41, tbeff=38.5478, mhp=240, uncxsec=0.179206, final xsec=0.15841
+tanbeta = 41, tbeff=38.5478, mhp=260, uncxsec=0.146049, final xsec=0.129101
+tanbeta = 41, tbeff=38.5478, mhp=280, uncxsec=0.120286, final xsec=0.106328
+tanbeta = 41, tbeff=38.5478, mhp=300, uncxsec=0.099172, final xsec=0.0876638
+tanbeta = 41, tbeff=38.5478, mhp=320, uncxsec=0.0821201, final xsec=0.0725906
+tanbeta = 41, tbeff=38.5478, mhp=340, uncxsec=0.0684003, final xsec=0.0604629
+tanbeta = 41, tbeff=38.5478, mhp=360, uncxsec=0.0571688, final xsec=0.0505347
+tanbeta = 41, tbeff=38.5478, mhp=380, uncxsec=0.0478797, final xsec=0.0423236
+tanbeta = 41, tbeff=38.5478, mhp=400, uncxsec=0.0401155, final xsec=0.0354604
+tanbeta = 41, tbeff=38.5478, mhp=420, uncxsec=0.0337748, final xsec=0.0298555
+tanbeta = 41, tbeff=38.5478, mhp=440, uncxsec=0.0286069, final xsec=0.0252873
+tanbeta = 41, tbeff=38.5478, mhp=460, uncxsec=0.0243017, final xsec=0.0214816
+tanbeta = 41, tbeff=38.5478, mhp=480, uncxsec=0.0205622, final xsec=0.0181761
+tanbeta = 41, tbeff=38.5478, mhp=500, uncxsec=0.0176628, final xsec=0.0156132
+tanbeta = 41, tbeff=38.5478, mhp=520, uncxsec=0.0151154, final xsec=0.0133614
+tanbeta = 41, tbeff=38.5478, mhp=540, uncxsec=0.0129198, final xsec=0.0114205
+tanbeta = 41, tbeff=38.5478, mhp=560, uncxsec=0.0111052, final xsec=0.00981652
+tanbeta = 41, tbeff=38.5478, mhp=580, uncxsec=0.00959729, final xsec=0.00848359
+tanbeta = 41, tbeff=38.5478, mhp=600, uncxsec=0.00830664, final xsec=0.00734271
+tan(beta) = 42
+Found delta_b=0.134477 as corresponding to tb=42
+Computed tbeff=39.4322
+tanbeta = 42, tbeff=39.4322, mhp=200, uncxsec=0.273324, final xsec=0.240925
+tanbeta = 42, tbeff=39.4322, mhp=220, uncxsec=0.218951, final xsec=0.192997
+tanbeta = 42, tbeff=39.4322, mhp=240, uncxsec=0.179206, final xsec=0.157964
+tanbeta = 42, tbeff=39.4322, mhp=260, uncxsec=0.146049, final xsec=0.128737
+tanbeta = 42, tbeff=39.4322, mhp=280, uncxsec=0.120286, final xsec=0.106028
+tanbeta = 42, tbeff=39.4322, mhp=300, uncxsec=0.099172, final xsec=0.0874165
+tanbeta = 42, tbeff=39.4322, mhp=320, uncxsec=0.0821201, final xsec=0.0723859
+tanbeta = 42, tbeff=39.4322, mhp=340, uncxsec=0.0684003, final xsec=0.0602924
+tanbeta = 42, tbeff=39.4322, mhp=360, uncxsec=0.0571688, final xsec=0.0503922
+tanbeta = 42, tbeff=39.4322, mhp=380, uncxsec=0.0478797, final xsec=0.0422042
+tanbeta = 42, tbeff=39.4322, mhp=400, uncxsec=0.0401155, final xsec=0.0353603
+tanbeta = 42, tbeff=39.4322, mhp=420, uncxsec=0.0337748, final xsec=0.0297712
+tanbeta = 42, tbeff=39.4322, mhp=440, uncxsec=0.0286069, final xsec=0.0252159
+tanbeta = 42, tbeff=39.4322, mhp=460, uncxsec=0.0243017, final xsec=0.0214211
+tanbeta = 42, tbeff=39.4322, mhp=480, uncxsec=0.0205622, final xsec=0.0181248
+tanbeta = 42, tbeff=39.4322, mhp=500, uncxsec=0.0176628, final xsec=0.0155691
+tanbeta = 42, tbeff=39.4322, mhp=520, uncxsec=0.0151154, final xsec=0.0133237
+tanbeta = 42, tbeff=39.4322, mhp=540, uncxsec=0.0129198, final xsec=0.0113883
+tanbeta = 42, tbeff=39.4322, mhp=560, uncxsec=0.0111052, final xsec=0.00978883
+tanbeta = 42, tbeff=39.4322, mhp=580, uncxsec=0.00959729, final xsec=0.00845966
+tanbeta = 42, tbeff=39.4322, mhp=600, uncxsec=0.00830664, final xsec=0.007322
+tan(beta) = 43
+Found delta_b=0.137677 as corresponding to tb=43
+Computed tbeff=40.3143
+tanbeta = 43, tbeff=40.3143, mhp=200, uncxsec=0.357358, final xsec=0.314112
+tanbeta = 43, tbeff=40.3143, mhp=220, uncxsec=0.285726, final xsec=0.251149
+tanbeta = 43, tbeff=40.3143, mhp=240, uncxsec=0.233894, final xsec=0.205589
+tanbeta = 43, tbeff=40.3143, mhp=260, uncxsec=0.191153, final xsec=0.16802
+tanbeta = 43, tbeff=40.3143, mhp=280, uncxsec=0.157201, final xsec=0.138177
+tanbeta = 43, tbeff=40.3143, mhp=300, uncxsec=0.12908, final xsec=0.113459
+tanbeta = 43, tbeff=40.3143, mhp=320, uncxsec=0.107055, final xsec=0.0940996
+tanbeta = 43, tbeff=40.3143, mhp=340, uncxsec=0.08927, final xsec=0.0784669
+tanbeta = 43, tbeff=40.3143, mhp=360, uncxsec=0.0746196, final xsec=0.0655894
+tanbeta = 43, tbeff=40.3143, mhp=380, uncxsec=0.0624771, final xsec=0.0549164
+tanbeta = 43, tbeff=40.3143, mhp=400, uncxsec=0.0523552, final xsec=0.0460194
+tanbeta = 43, tbeff=40.3143, mhp=420, uncxsec=0.0441059, final xsec=0.0387684
+tanbeta = 43, tbeff=40.3143, mhp=440, uncxsec=0.0373233, final xsec=0.0328066
+tanbeta = 43, tbeff=40.3143, mhp=460, uncxsec=0.0316638, final xsec=0.027832
+tanbeta = 43, tbeff=40.3143, mhp=480, uncxsec=0.0268841, final xsec=0.0236307
+tanbeta = 43, tbeff=40.3143, mhp=500, uncxsec=0.0230171, final xsec=0.0202317
+tanbeta = 43, tbeff=40.3143, mhp=520, uncxsec=0.0197086, final xsec=0.0173235
+tanbeta = 43, tbeff=40.3143, mhp=540, uncxsec=0.0168314, final xsec=0.0147945
+tanbeta = 43, tbeff=40.3143, mhp=560, uncxsec=0.0144895, final xsec=0.012736
+tanbeta = 43, tbeff=40.3143, mhp=580, uncxsec=0.0125013, final xsec=0.0109884
+tanbeta = 43, tbeff=40.3143, mhp=600, uncxsec=0.0108741, final xsec=0.00955816
+tan(beta) = 44
+Found delta_b=0.140877 as corresponding to tb=44
+Computed tbeff=41.1939
+tanbeta = 44, tbeff=41.1939, mhp=200, uncxsec=0.357358, final xsec=0.313231
+tanbeta = 44, tbeff=41.1939, mhp=220, uncxsec=0.285726, final xsec=0.250444
+tanbeta = 44, tbeff=41.1939, mhp=240, uncxsec=0.233894, final xsec=0.205012
+tanbeta = 44, tbeff=41.1939, mhp=260, uncxsec=0.191153, final xsec=0.167549
+tanbeta = 44, tbeff=41.1939, mhp=280, uncxsec=0.157201, final xsec=0.13779
+tanbeta = 44, tbeff=41.1939, mhp=300, uncxsec=0.12908, final xsec=0.113141
+tanbeta = 44, tbeff=41.1939, mhp=320, uncxsec=0.107055, final xsec=0.0938357
+tanbeta = 44, tbeff=41.1939, mhp=340, uncxsec=0.08927, final xsec=0.0782468
+tanbeta = 44, tbeff=41.1939, mhp=360, uncxsec=0.0746196, final xsec=0.0654055
+tanbeta = 44, tbeff=41.1939, mhp=380, uncxsec=0.0624771, final xsec=0.0547624
+tanbeta = 44, tbeff=41.1939, mhp=400, uncxsec=0.0523552, final xsec=0.0458903
+tanbeta = 44, tbeff=41.1939, mhp=420, uncxsec=0.0441059, final xsec=0.0386596
+tanbeta = 44, tbeff=41.1939, mhp=440, uncxsec=0.0373233, final xsec=0.0327146
+tanbeta = 44, tbeff=41.1939, mhp=460, uncxsec=0.0316638, final xsec=0.0277539
+tanbeta = 44, tbeff=41.1939, mhp=480, uncxsec=0.0268841, final xsec=0.0235644
+tanbeta = 44, tbeff=41.1939, mhp=500, uncxsec=0.0230171, final xsec=0.0201749
+tanbeta = 44, tbeff=41.1939, mhp=520, uncxsec=0.0197086, final xsec=0.017275
+tanbeta = 44, tbeff=41.1939, mhp=540, uncxsec=0.0168314, final xsec=0.014753
+tanbeta = 44, tbeff=41.1939, mhp=560, uncxsec=0.0144895, final xsec=0.0127003
+tanbeta = 44, tbeff=41.1939, mhp=580, uncxsec=0.0125013, final xsec=0.0109576
+tanbeta = 44, tbeff=41.1939, mhp=600, uncxsec=0.0108741, final xsec=0.00953135
+tan(beta) = 45
+Found delta_b=0.144077 as corresponding to tb=45
+Computed tbeff=42.0712
+tanbeta = 45, tbeff=42.0712, mhp=200, uncxsec=0.357358, final xsec=0.312355
+tanbeta = 45, tbeff=42.0712, mhp=220, uncxsec=0.285726, final xsec=0.249744
+tanbeta = 45, tbeff=42.0712, mhp=240, uncxsec=0.233894, final xsec=0.204439
+tanbeta = 45, tbeff=42.0712, mhp=260, uncxsec=0.191153, final xsec=0.167081
+tanbeta = 45, tbeff=42.0712, mhp=280, uncxsec=0.157201, final xsec=0.137404
+tanbeta = 45, tbeff=42.0712, mhp=300, uncxsec=0.12908, final xsec=0.112825
+tanbeta = 45, tbeff=42.0712, mhp=320, uncxsec=0.107055, final xsec=0.0935733
+tanbeta = 45, tbeff=42.0712, mhp=340, uncxsec=0.08927, final xsec=0.078028
+tanbeta = 45, tbeff=42.0712, mhp=360, uncxsec=0.0746196, final xsec=0.0652225
+tanbeta = 45, tbeff=42.0712, mhp=380, uncxsec=0.0624771, final xsec=0.0546092
+tanbeta = 45, tbeff=42.0712, mhp=400, uncxsec=0.0523552, final xsec=0.045762
+tanbeta = 45, tbeff=42.0712, mhp=420, uncxsec=0.0441059, final xsec=0.0385515
+tanbeta = 45, tbeff=42.0712, mhp=440, uncxsec=0.0373233, final xsec=0.0326231
+tanbeta = 45, tbeff=42.0712, mhp=460, uncxsec=0.0316638, final xsec=0.0276763
+tanbeta = 45, tbeff=42.0712, mhp=480, uncxsec=0.0268841, final xsec=0.0234985
+tanbeta = 45, tbeff=42.0712, mhp=500, uncxsec=0.0230171, final xsec=0.0201185
+tanbeta = 45, tbeff=42.0712, mhp=520, uncxsec=0.0197086, final xsec=0.0172266
+tanbeta = 45, tbeff=42.0712, mhp=540, uncxsec=0.0168314, final xsec=0.0147118
+tanbeta = 45, tbeff=42.0712, mhp=560, uncxsec=0.0144895, final xsec=0.0126648
+tanbeta = 45, tbeff=42.0712, mhp=580, uncxsec=0.0125013, final xsec=0.010927
+tanbeta = 45, tbeff=42.0712, mhp=600, uncxsec=0.0108741, final xsec=0.00950469
+tan(beta) = 46
+Found delta_b=0.147277 as corresponding to tb=46
+Computed tbeff=42.9461
+tanbeta = 46, tbeff=42.9461, mhp=200, uncxsec=0.357358, final xsec=0.311484
+tanbeta = 46, tbeff=42.9461, mhp=220, uncxsec=0.285726, final xsec=0.249047
+tanbeta = 46, tbeff=42.9461, mhp=240, uncxsec=0.233894, final xsec=0.203869
+tanbeta = 46, tbeff=42.9461, mhp=260, uncxsec=0.191153, final xsec=0.166615
+tanbeta = 46, tbeff=42.9461, mhp=280, uncxsec=0.157201, final xsec=0.137021
+tanbeta = 46, tbeff=42.9461, mhp=300, uncxsec=0.12908, final xsec=0.11251
+tanbeta = 46, tbeff=42.9461, mhp=320, uncxsec=0.107055, final xsec=0.0933123
+tanbeta = 46, tbeff=42.9461, mhp=340, uncxsec=0.08927, final xsec=0.0778103
+tanbeta = 46, tbeff=42.9461, mhp=360, uncxsec=0.0746196, final xsec=0.0650406
+tanbeta = 46, tbeff=42.9461, mhp=380, uncxsec=0.0624771, final xsec=0.0544569
+tanbeta = 46, tbeff=42.9461, mhp=400, uncxsec=0.0523552, final xsec=0.0456343
+tanbeta = 46, tbeff=42.9461, mhp=420, uncxsec=0.0441059, final xsec=0.038444
+tanbeta = 46, tbeff=42.9461, mhp=440, uncxsec=0.0373233, final xsec=0.0325321
+tanbeta = 46, tbeff=42.9461, mhp=460, uncxsec=0.0316638, final xsec=0.0275991
+tanbeta = 46, tbeff=42.9461, mhp=480, uncxsec=0.0268841, final xsec=0.023433
+tanbeta = 46, tbeff=42.9461, mhp=500, uncxsec=0.0230171, final xsec=0.0200624
+tanbeta = 46, tbeff=42.9461, mhp=520, uncxsec=0.0197086, final xsec=0.0171786
+tanbeta = 46, tbeff=42.9461, mhp=540, uncxsec=0.0168314, final xsec=0.0146707
+tanbeta = 46, tbeff=42.9461, mhp=560, uncxsec=0.0144895, final xsec=0.0126295
+tanbeta = 46, tbeff=42.9461, mhp=580, uncxsec=0.0125013, final xsec=0.0108965
+tanbeta = 46, tbeff=42.9461, mhp=600, uncxsec=0.0108741, final xsec=0.00947818
+tan(beta) = 47
+Found delta_b=0.150477 as corresponding to tb=47
+Computed tbeff=43.8186
+tanbeta = 47, tbeff=43.8186, mhp=200, uncxsec=0.357358, final xsec=0.310617
+tanbeta = 47, tbeff=43.8186, mhp=220, uncxsec=0.285726, final xsec=0.248354
+tanbeta = 47, tbeff=43.8186, mhp=240, uncxsec=0.233894, final xsec=0.203302
+tanbeta = 47, tbeff=43.8186, mhp=260, uncxsec=0.191153, final xsec=0.166151
+tanbeta = 47, tbeff=43.8186, mhp=280, uncxsec=0.157201, final xsec=0.13664
+tanbeta = 47, tbeff=43.8186, mhp=300, uncxsec=0.12908, final xsec=0.112197
+tanbeta = 47, tbeff=43.8186, mhp=320, uncxsec=0.107055, final xsec=0.0930527
+tanbeta = 47, tbeff=43.8186, mhp=340, uncxsec=0.08927, final xsec=0.0775939
+tanbeta = 47, tbeff=43.8186, mhp=360, uncxsec=0.0746196, final xsec=0.0648597
+tanbeta = 47, tbeff=43.8186, mhp=380, uncxsec=0.0624771, final xsec=0.0543054
+tanbeta = 47, tbeff=43.8186, mhp=400, uncxsec=0.0523552, final xsec=0.0455074
+tanbeta = 47, tbeff=43.8186, mhp=420, uncxsec=0.0441059, final xsec=0.0383371
+tanbeta = 47, tbeff=43.8186, mhp=440, uncxsec=0.0373233, final xsec=0.0324416
+tanbeta = 47, tbeff=43.8186, mhp=460, uncxsec=0.0316638, final xsec=0.0275223
+tanbeta = 47, tbeff=43.8186, mhp=480, uncxsec=0.0268841, final xsec=0.0233678
+tanbeta = 47, tbeff=43.8186, mhp=500, uncxsec=0.0230171, final xsec=0.0200066
+tanbeta = 47, tbeff=43.8186, mhp=520, uncxsec=0.0197086, final xsec=0.0171308
+tanbeta = 47, tbeff=43.8186, mhp=540, uncxsec=0.0168314, final xsec=0.0146299
+tanbeta = 47, tbeff=43.8186, mhp=560, uncxsec=0.0144895, final xsec=0.0125943
+tanbeta = 47, tbeff=43.8186, mhp=580, uncxsec=0.0125013, final xsec=0.0108662
+tanbeta = 47, tbeff=43.8186, mhp=600, uncxsec=0.0108741, final xsec=0.00945182
+tan(beta) = 48
+Found delta_b=0.153677 as corresponding to tb=48
+Computed tbeff=44.6888
+tanbeta = 48, tbeff=44.6888, mhp=200, uncxsec=0.357358, final xsec=0.309756
+tanbeta = 48, tbeff=44.6888, mhp=220, uncxsec=0.285726, final xsec=0.247666
+tanbeta = 48, tbeff=44.6888, mhp=240, uncxsec=0.233894, final xsec=0.202738
+tanbeta = 48, tbeff=44.6888, mhp=260, uncxsec=0.191153, final xsec=0.16569
+tanbeta = 48, tbeff=44.6888, mhp=280, uncxsec=0.157201, final xsec=0.136261
+tanbeta = 48, tbeff=44.6888, mhp=300, uncxsec=0.12908, final xsec=0.111886
+tanbeta = 48, tbeff=44.6888, mhp=320, uncxsec=0.107055, final xsec=0.0927946
+tanbeta = 48, tbeff=44.6888, mhp=340, uncxsec=0.08927, final xsec=0.0773787
+tanbeta = 48, tbeff=44.6888, mhp=360, uncxsec=0.0746196, final xsec=0.0646798
+tanbeta = 48, tbeff=44.6888, mhp=380, uncxsec=0.0624771, final xsec=0.0541548
+tanbeta = 48, tbeff=44.6888, mhp=400, uncxsec=0.0523552, final xsec=0.0453812
+tanbeta = 48, tbeff=44.6888, mhp=420, uncxsec=0.0441059, final xsec=0.0382307
+tanbeta = 48, tbeff=44.6888, mhp=440, uncxsec=0.0373233, final xsec=0.0323516
+tanbeta = 48, tbeff=44.6888, mhp=460, uncxsec=0.0316638, final xsec=0.027446
+tanbeta = 48, tbeff=44.6888, mhp=480, uncxsec=0.0268841, final xsec=0.023303
+tanbeta = 48, tbeff=44.6888, mhp=500, uncxsec=0.0230171, final xsec=0.0199511
+tanbeta = 48, tbeff=44.6888, mhp=520, uncxsec=0.0197086, final xsec=0.0170833
+tanbeta = 48, tbeff=44.6888, mhp=540, uncxsec=0.0168314, final xsec=0.0145894
+tanbeta = 48, tbeff=44.6888, mhp=560, uncxsec=0.0144895, final xsec=0.0125594
+tanbeta = 48, tbeff=44.6888, mhp=580, uncxsec=0.0125013, final xsec=0.0108361
+tanbeta = 48, tbeff=44.6888, mhp=600, uncxsec=0.0108741, final xsec=0.0094256
+tan(beta) = 49
+Found delta_b=0.156877 as corresponding to tb=49
+Computed tbeff=45.5567
+tanbeta = 49, tbeff=45.5567, mhp=200, uncxsec=0.451688, final xsec=0.390437
+tanbeta = 49, tbeff=45.5567, mhp=220, uncxsec=0.361558, final xsec=0.312529
+tanbeta = 49, tbeff=45.5567, mhp=240, uncxsec=0.295693, final xsec=0.255596
+tanbeta = 49, tbeff=45.5567, mhp=260, uncxsec=0.241632, final xsec=0.208866
+tanbeta = 49, tbeff=45.5567, mhp=280, uncxsec=0.199167, final xsec=0.172159
+tanbeta = 49, tbeff=45.5567, mhp=300, uncxsec=0.163802, final xsec=0.14159
+tanbeta = 49, tbeff=45.5567, mhp=320, uncxsec=0.135624, final xsec=0.117233
+tanbeta = 49, tbeff=45.5567, mhp=340, uncxsec=0.113149, final xsec=0.0978056
+tanbeta = 49, tbeff=45.5567, mhp=360, uncxsec=0.094373, final xsec=0.0815757
+tanbeta = 49, tbeff=45.5567, mhp=380, uncxsec=0.0790489, final xsec=0.0683296
+tanbeta = 49, tbeff=45.5567, mhp=400, uncxsec=0.0662781, final xsec=0.0572905
+tanbeta = 49, tbeff=45.5567, mhp=420, uncxsec=0.0557262, final xsec=0.0481695
+tanbeta = 49, tbeff=45.5567, mhp=440, uncxsec=0.0472099, final xsec=0.0408081
+tanbeta = 49, tbeff=45.5567, mhp=460, uncxsec=0.04008, final xsec=0.034645
+tanbeta = 49, tbeff=45.5567, mhp=480, uncxsec=0.0340056, final xsec=0.0293943
+tanbeta = 49, tbeff=45.5567, mhp=500, uncxsec=0.0291131, final xsec=0.0251653
+tanbeta = 49, tbeff=45.5567, mhp=520, uncxsec=0.0249444, final xsec=0.0215618
+tanbeta = 49, tbeff=45.5567, mhp=540, uncxsec=0.0212985, final xsec=0.0184103
+tanbeta = 49, tbeff=45.5567, mhp=560, uncxsec=0.0183421, final xsec=0.0158548
+tanbeta = 49, tbeff=45.5567, mhp=580, uncxsec=0.015854, final xsec=0.0137041
+tanbeta = 49, tbeff=45.5567, mhp=600, uncxsec=0.0137307, final xsec=0.0118688
+tan(beta) = 50
+Found delta_b=0.160077 as corresponding to tb=50
+Computed tbeff=46.4223
+tanbeta = 50, tbeff=46.4223, mhp=200, uncxsec=0.451688, final xsec=0.38936
+tanbeta = 50, tbeff=46.4223, mhp=220, uncxsec=0.361558, final xsec=0.311667
+tanbeta = 50, tbeff=46.4223, mhp=240, uncxsec=0.295693, final xsec=0.254891
+tanbeta = 50, tbeff=46.4223, mhp=260, uncxsec=0.241632, final xsec=0.20829
+tanbeta = 50, tbeff=46.4223, mhp=280, uncxsec=0.199167, final xsec=0.171684
+tanbeta = 50, tbeff=46.4223, mhp=300, uncxsec=0.163802, final xsec=0.141199
+tanbeta = 50, tbeff=46.4223, mhp=320, uncxsec=0.135624, final xsec=0.116909
+tanbeta = 50, tbeff=46.4223, mhp=340, uncxsec=0.113149, final xsec=0.0975358
+tanbeta = 50, tbeff=46.4223, mhp=360, uncxsec=0.094373, final xsec=0.0813506
+tanbeta = 50, tbeff=46.4223, mhp=380, uncxsec=0.0790489, final xsec=0.0681411
+tanbeta = 50, tbeff=46.4223, mhp=400, uncxsec=0.0662781, final xsec=0.0571325
+tanbeta = 50, tbeff=46.4223, mhp=420, uncxsec=0.0557262, final xsec=0.0480366
+tanbeta = 50, tbeff=46.4223, mhp=440, uncxsec=0.0472099, final xsec=0.0406955
+tanbeta = 50, tbeff=46.4223, mhp=460, uncxsec=0.04008, final xsec=0.0345494
+tanbeta = 50, tbeff=46.4223, mhp=480, uncxsec=0.0340056, final xsec=0.0293132
+tanbeta = 50, tbeff=46.4223, mhp=500, uncxsec=0.0291131, final xsec=0.0250958
+tanbeta = 50, tbeff=46.4223, mhp=520, uncxsec=0.0249444, final xsec=0.0215024
+tanbeta = 50, tbeff=46.4223, mhp=540, uncxsec=0.0212985, final xsec=0.0183596
+tanbeta = 50, tbeff=46.4223, mhp=560, uncxsec=0.0183421, final xsec=0.0158111
+tanbeta = 50, tbeff=46.4223, mhp=580, uncxsec=0.015854, final xsec=0.0136663
+tanbeta = 50, tbeff=46.4223, mhp=600, uncxsec=0.0137307, final xsec=0.011836
+tan(beta) = 51
+Found delta_b=0.163277 as corresponding to tb=51
+Computed tbeff=47.2856
+tanbeta = 51, tbeff=47.2856, mhp=200, uncxsec=0.451688, final xsec=0.388289
+tanbeta = 51, tbeff=47.2856, mhp=220, uncxsec=0.361558, final xsec=0.31081
+tanbeta = 51, tbeff=47.2856, mhp=240, uncxsec=0.295693, final xsec=0.25419
+tanbeta = 51, tbeff=47.2856, mhp=260, uncxsec=0.241632, final xsec=0.207717
+tanbeta = 51, tbeff=47.2856, mhp=280, uncxsec=0.199167, final xsec=0.171212
+tanbeta = 51, tbeff=47.2856, mhp=300, uncxsec=0.163802, final xsec=0.140811
+tanbeta = 51, tbeff=47.2856, mhp=320, uncxsec=0.135624, final xsec=0.116588
+tanbeta = 51, tbeff=47.2856, mhp=340, uncxsec=0.113149, final xsec=0.0972675
+tanbeta = 51, tbeff=47.2856, mhp=360, uncxsec=0.094373, final xsec=0.0811269
+tanbeta = 51, tbeff=47.2856, mhp=380, uncxsec=0.0790489, final xsec=0.0679536
+tanbeta = 51, tbeff=47.2856, mhp=400, uncxsec=0.0662781, final xsec=0.0569753
+tanbeta = 51, tbeff=47.2856, mhp=420, uncxsec=0.0557262, final xsec=0.0479045
+tanbeta = 51, tbeff=47.2856, mhp=440, uncxsec=0.0472099, final xsec=0.0405835
+tanbeta = 51, tbeff=47.2856, mhp=460, uncxsec=0.04008, final xsec=0.0344544
+tanbeta = 51, tbeff=47.2856, mhp=480, uncxsec=0.0340056, final xsec=0.0292326
+tanbeta = 51, tbeff=47.2856, mhp=500, uncxsec=0.0291131, final xsec=0.0250268
+tanbeta = 51, tbeff=47.2856, mhp=520, uncxsec=0.0249444, final xsec=0.0214432
+tanbeta = 51, tbeff=47.2856, mhp=540, uncxsec=0.0212985, final xsec=0.0183091
+tanbeta = 51, tbeff=47.2856, mhp=560, uncxsec=0.0183421, final xsec=0.0157676
+tanbeta = 51, tbeff=47.2856, mhp=580, uncxsec=0.015854, final xsec=0.0136287
+tanbeta = 51, tbeff=47.2856, mhp=600, uncxsec=0.0137307, final xsec=0.0118035
+tan(beta) = 52
+Found delta_b=0.166477 as corresponding to tb=52
+Computed tbeff=48.1466
+tanbeta = 52, tbeff=48.1466, mhp=200, uncxsec=0.451688, final xsec=0.387224
+tanbeta = 52, tbeff=48.1466, mhp=220, uncxsec=0.361558, final xsec=0.309957
+tanbeta = 52, tbeff=48.1466, mhp=240, uncxsec=0.295693, final xsec=0.253492
+tanbeta = 52, tbeff=48.1466, mhp=260, uncxsec=0.241632, final xsec=0.207147
+tanbeta = 52, tbeff=48.1466, mhp=280, uncxsec=0.199167, final xsec=0.170742
+tanbeta = 52, tbeff=48.1466, mhp=300, uncxsec=0.163802, final xsec=0.140425
+tanbeta = 52, tbeff=48.1466, mhp=320, uncxsec=0.135624, final xsec=0.116268
+tanbeta = 52, tbeff=48.1466, mhp=340, uncxsec=0.113149, final xsec=0.0970006
+tanbeta = 52, tbeff=48.1466, mhp=360, uncxsec=0.094373, final xsec=0.0809043
+tanbeta = 52, tbeff=48.1466, mhp=380, uncxsec=0.0790489, final xsec=0.0677672
+tanbeta = 52, tbeff=48.1466, mhp=400, uncxsec=0.0662781, final xsec=0.056819
+tanbeta = 52, tbeff=48.1466, mhp=420, uncxsec=0.0557262, final xsec=0.0477731
+tanbeta = 52, tbeff=48.1466, mhp=440, uncxsec=0.0472099, final xsec=0.0404722
+tanbeta = 52, tbeff=48.1466, mhp=460, uncxsec=0.04008, final xsec=0.0343599
+tanbeta = 52, tbeff=48.1466, mhp=480, uncxsec=0.0340056, final xsec=0.0291524
+tanbeta = 52, tbeff=48.1466, mhp=500, uncxsec=0.0291131, final xsec=0.0249581
+tanbeta = 52, tbeff=48.1466, mhp=520, uncxsec=0.0249444, final xsec=0.0213844
+tanbeta = 52, tbeff=48.1466, mhp=540, uncxsec=0.0212985, final xsec=0.0182588
+tanbeta = 52, tbeff=48.1466, mhp=560, uncxsec=0.0183421, final xsec=0.0157244
+tanbeta = 52, tbeff=48.1466, mhp=580, uncxsec=0.015854, final xsec=0.0135914
+tanbeta = 52, tbeff=48.1466, mhp=600, uncxsec=0.0137307, final xsec=0.0117711
+tan(beta) = 53
+Found delta_b=0.169677 as corresponding to tb=53
+Computed tbeff=49.0053
+tanbeta = 53, tbeff=49.0053, mhp=200, uncxsec=0.451688, final xsec=0.386165
+tanbeta = 53, tbeff=49.0053, mhp=220, uncxsec=0.361558, final xsec=0.309109
+tanbeta = 53, tbeff=49.0053, mhp=240, uncxsec=0.295693, final xsec=0.252799
+tanbeta = 53, tbeff=49.0053, mhp=260, uncxsec=0.241632, final xsec=0.20658
+tanbeta = 53, tbeff=49.0053, mhp=280, uncxsec=0.199167, final xsec=0.170275
+tanbeta = 53, tbeff=49.0053, mhp=300, uncxsec=0.163802, final xsec=0.14004
+tanbeta = 53, tbeff=49.0053, mhp=320, uncxsec=0.135624, final xsec=0.11595
+tanbeta = 53, tbeff=49.0053, mhp=340, uncxsec=0.113149, final xsec=0.0967352
+tanbeta = 53, tbeff=49.0053, mhp=360, uncxsec=0.094373, final xsec=0.080683
+tanbeta = 53, tbeff=49.0053, mhp=380, uncxsec=0.0790489, final xsec=0.0675818
+tanbeta = 53, tbeff=49.0053, mhp=400, uncxsec=0.0662781, final xsec=0.0566636
+tanbeta = 53, tbeff=49.0053, mhp=420, uncxsec=0.0557262, final xsec=0.0476424
+tanbeta = 53, tbeff=49.0053, mhp=440, uncxsec=0.0472099, final xsec=0.0403615
+tanbeta = 53, tbeff=49.0053, mhp=460, uncxsec=0.04008, final xsec=0.0342659
+tanbeta = 53, tbeff=49.0053, mhp=480, uncxsec=0.0340056, final xsec=0.0290726
+tanbeta = 53, tbeff=49.0053, mhp=500, uncxsec=0.0291131, final xsec=0.0248899
+tanbeta = 53, tbeff=49.0053, mhp=520, uncxsec=0.0249444, final xsec=0.0213259
+tanbeta = 53, tbeff=49.0053, mhp=540, uncxsec=0.0212985, final xsec=0.0182089
+tanbeta = 53, tbeff=49.0053, mhp=560, uncxsec=0.0183421, final xsec=0.0156813
+tanbeta = 53, tbeff=49.0053, mhp=580, uncxsec=0.015854, final xsec=0.0135542
+tanbeta = 53, tbeff=49.0053, mhp=600, uncxsec=0.0137307, final xsec=0.0117389
+tan(beta) = 54
+Found delta_b=0.172877 as corresponding to tb=54
+Computed tbeff=49.8617
+tanbeta = 54, tbeff=49.8617, mhp=200, uncxsec=0.451688, final xsec=0.385111
+tanbeta = 54, tbeff=49.8617, mhp=220, uncxsec=0.361558, final xsec=0.308266
+tanbeta = 54, tbeff=49.8617, mhp=240, uncxsec=0.295693, final xsec=0.252109
+tanbeta = 54, tbeff=49.8617, mhp=260, uncxsec=0.241632, final xsec=0.206016
+tanbeta = 54, tbeff=49.8617, mhp=280, uncxsec=0.199167, final xsec=0.169811
+tanbeta = 54, tbeff=49.8617, mhp=300, uncxsec=0.163802, final xsec=0.139658
+tanbeta = 54, tbeff=49.8617, mhp=320, uncxsec=0.135624, final xsec=0.115634
+tanbeta = 54, tbeff=49.8617, mhp=340, uncxsec=0.113149, final xsec=0.0964713
+tanbeta = 54, tbeff=49.8617, mhp=360, uncxsec=0.094373, final xsec=0.0804628
+tanbeta = 54, tbeff=49.8617, mhp=380, uncxsec=0.0790489, final xsec=0.0673974
+tanbeta = 54, tbeff=49.8617, mhp=400, uncxsec=0.0662781, final xsec=0.056509
+tanbeta = 54, tbeff=49.8617, mhp=420, uncxsec=0.0557262, final xsec=0.0475124
+tanbeta = 54, tbeff=49.8617, mhp=440, uncxsec=0.0472099, final xsec=0.0402514
+tanbeta = 54, tbeff=49.8617, mhp=460, uncxsec=0.04008, final xsec=0.0341724
+tanbeta = 54, tbeff=49.8617, mhp=480, uncxsec=0.0340056, final xsec=0.0289933
+tanbeta = 54, tbeff=49.8617, mhp=500, uncxsec=0.0291131, final xsec=0.024822
+tanbeta = 54, tbeff=49.8617, mhp=520, uncxsec=0.0249444, final xsec=0.0212677
+tanbeta = 54, tbeff=49.8617, mhp=540, uncxsec=0.0212985, final xsec=0.0181592
+tanbeta = 54, tbeff=49.8617, mhp=560, uncxsec=0.0183421, final xsec=0.0156386
+tanbeta = 54, tbeff=49.8617, mhp=580, uncxsec=0.015854, final xsec=0.0135172
+tanbeta = 54, tbeff=49.8617, mhp=600, uncxsec=0.0137307, final xsec=0.0117069
+tan(beta) = 55
+Found delta_b=0.176077 as corresponding to tb=55
+Computed tbeff=50.716
+tanbeta = 55, tbeff=50.716, mhp=200, uncxsec=0.557583, final xsec=0.474104
+tanbeta = 55, tbeff=50.716, mhp=220, uncxsec=0.446762, final xsec=0.379875
+tanbeta = 55, tbeff=50.716, mhp=240, uncxsec=0.365004, final xsec=0.310357
+tanbeta = 55, tbeff=50.716, mhp=260, uncxsec=0.298362, final xsec=0.253693
+tanbeta = 55, tbeff=50.716, mhp=280, uncxsec=0.245606, final xsec=0.208835
+tanbeta = 55, tbeff=50.716, mhp=300, uncxsec=0.201781, final xsec=0.171571
+tanbeta = 55, tbeff=50.716, mhp=320, uncxsec=0.167379, final xsec=0.14232
+tanbeta = 55, tbeff=50.716, mhp=340, uncxsec=0.139445, final xsec=0.118568
+tanbeta = 55, tbeff=50.716, mhp=360, uncxsec=0.116374, final xsec=0.098951
+tanbeta = 55, tbeff=50.716, mhp=380, uncxsec=0.097581, final xsec=0.0829716
+tanbeta = 55, tbeff=50.716, mhp=400, uncxsec=0.0817474, final xsec=0.0695085
+tanbeta = 55, tbeff=50.716, mhp=420, uncxsec=0.068838, final xsec=0.0585319
+tanbeta = 55, tbeff=50.716, mhp=440, uncxsec=0.0582375, final xsec=0.0495184
+tanbeta = 55, tbeff=50.716, mhp=460, uncxsec=0.0494655, final xsec=0.0420597
+tanbeta = 55, tbeff=50.716, mhp=480, uncxsec=0.0419372, final xsec=0.0356585
+tanbeta = 55, tbeff=50.716, mhp=500, uncxsec=0.0359392, final xsec=0.0305585
+tanbeta = 55, tbeff=50.716, mhp=520, uncxsec=0.0307782, final xsec=0.0261702
+tanbeta = 55, tbeff=50.716, mhp=540, uncxsec=0.0263186, final xsec=0.0223783
+tanbeta = 55, tbeff=50.716, mhp=560, uncxsec=0.0226096, final xsec=0.0192246
+tanbeta = 55, tbeff=50.716, mhp=580, uncxsec=0.0195477, final xsec=0.0166211
+tanbeta = 55, tbeff=50.716, mhp=600, uncxsec=0.0169285, final xsec=0.014394
+tan(beta) = 56
+Found delta_b=0.179277 as corresponding to tb=56
+Computed tbeff=51.568
+tanbeta = 56, tbeff=51.568, mhp=200, uncxsec=0.557583, final xsec=0.472818
+tanbeta = 56, tbeff=51.568, mhp=220, uncxsec=0.446762, final xsec=0.378844
+tanbeta = 56, tbeff=51.568, mhp=240, uncxsec=0.365004, final xsec=0.309515
+tanbeta = 56, tbeff=51.568, mhp=260, uncxsec=0.298362, final xsec=0.253004
+tanbeta = 56, tbeff=51.568, mhp=280, uncxsec=0.245606, final xsec=0.208268
+tanbeta = 56, tbeff=51.568, mhp=300, uncxsec=0.201781, final xsec=0.171106
+tanbeta = 56, tbeff=51.568, mhp=320, uncxsec=0.167379, final xsec=0.141934
+tanbeta = 56, tbeff=51.568, mhp=340, uncxsec=0.139445, final xsec=0.118246
+tanbeta = 56, tbeff=51.568, mhp=360, uncxsec=0.116374, final xsec=0.0986825
+tanbeta = 56, tbeff=51.568, mhp=380, uncxsec=0.097581, final xsec=0.0827464
+tanbeta = 56, tbeff=51.568, mhp=400, uncxsec=0.0817474, final xsec=0.0693199
+tanbeta = 56, tbeff=51.568, mhp=420, uncxsec=0.068838, final xsec=0.058373
+tanbeta = 56, tbeff=51.568, mhp=440, uncxsec=0.0582375, final xsec=0.0493841
+tanbeta = 56, tbeff=51.568, mhp=460, uncxsec=0.0494655, final xsec=0.0419456
+tanbeta = 56, tbeff=51.568, mhp=480, uncxsec=0.0419372, final xsec=0.0355618
+tanbeta = 56, tbeff=51.568, mhp=500, uncxsec=0.0359392, final xsec=0.0304756
+tanbeta = 56, tbeff=51.568, mhp=520, uncxsec=0.0307782, final xsec=0.0260992
+tanbeta = 56, tbeff=51.568, mhp=540, uncxsec=0.0263186, final xsec=0.0223176
+tanbeta = 56, tbeff=51.568, mhp=560, uncxsec=0.0226096, final xsec=0.0191724
+tanbeta = 56, tbeff=51.568, mhp=580, uncxsec=0.0195477, final xsec=0.016576
+tanbeta = 56, tbeff=51.568, mhp=600, uncxsec=0.0169285, final xsec=0.014355
+tan(beta) = 57
+Found delta_b=0.182477 as corresponding to tb=57
+Computed tbeff=52.4178
+tanbeta = 57, tbeff=52.4178, mhp=200, uncxsec=0.557583, final xsec=0.471538
+tanbeta = 57, tbeff=52.4178, mhp=220, uncxsec=0.446762, final xsec=0.377819
+tanbeta = 57, tbeff=52.4178, mhp=240, uncxsec=0.365004, final xsec=0.308677
+tanbeta = 57, tbeff=52.4178, mhp=260, uncxsec=0.298362, final xsec=0.252319
+tanbeta = 57, tbeff=52.4178, mhp=280, uncxsec=0.245606, final xsec=0.207705
+tanbeta = 57, tbeff=52.4178, mhp=300, uncxsec=0.201781, final xsec=0.170643
+tanbeta = 57, tbeff=52.4178, mhp=320, uncxsec=0.167379, final xsec=0.141549
+tanbeta = 57, tbeff=52.4178, mhp=340, uncxsec=0.139445, final xsec=0.117926
+tanbeta = 57, tbeff=52.4178, mhp=360, uncxsec=0.116374, final xsec=0.0984154
+tanbeta = 57, tbeff=52.4178, mhp=380, uncxsec=0.097581, final xsec=0.0825225
+tanbeta = 57, tbeff=52.4178, mhp=400, uncxsec=0.0817474, final xsec=0.0691323
+tanbeta = 57, tbeff=52.4178, mhp=420, uncxsec=0.068838, final xsec=0.0582151
+tanbeta = 57, tbeff=52.4178, mhp=440, uncxsec=0.0582375, final xsec=0.0492504
+tanbeta = 57, tbeff=52.4178, mhp=460, uncxsec=0.0494655, final xsec=0.0418321
+tanbeta = 57, tbeff=52.4178, mhp=480, uncxsec=0.0419372, final xsec=0.0354655
+tanbeta = 57, tbeff=52.4178, mhp=500, uncxsec=0.0359392, final xsec=0.0303931
+tanbeta = 57, tbeff=52.4178, mhp=520, uncxsec=0.0307782, final xsec=0.0260286
+tanbeta = 57, tbeff=52.4178, mhp=540, uncxsec=0.0263186, final xsec=0.0222572
+tanbeta = 57, tbeff=52.4178, mhp=560, uncxsec=0.0226096, final xsec=0.0191205
+tanbeta = 57, tbeff=52.4178, mhp=580, uncxsec=0.0195477, final xsec=0.0165311
+tanbeta = 57, tbeff=52.4178, mhp=600, uncxsec=0.0169285, final xsec=0.0143161
+tan(beta) = 58
+Found delta_b=0.185677 as corresponding to tb=58
+Computed tbeff=53.2653
+tanbeta = 58, tbeff=53.2653, mhp=200, uncxsec=0.557583, final xsec=0.470265
+tanbeta = 58, tbeff=53.2653, mhp=220, uncxsec=0.446762, final xsec=0.376799
+tanbeta = 58, tbeff=53.2653, mhp=240, uncxsec=0.365004, final xsec=0.307844
+tanbeta = 58, tbeff=53.2653, mhp=260, uncxsec=0.298362, final xsec=0.251638
+tanbeta = 58, tbeff=53.2653, mhp=280, uncxsec=0.245606, final xsec=0.207144
+tanbeta = 58, tbeff=53.2653, mhp=300, uncxsec=0.201781, final xsec=0.170182
+tanbeta = 58, tbeff=53.2653, mhp=320, uncxsec=0.167379, final xsec=0.141167
+tanbeta = 58, tbeff=53.2653, mhp=340, uncxsec=0.139445, final xsec=0.117608
+tanbeta = 58, tbeff=53.2653, mhp=360, uncxsec=0.116374, final xsec=0.0981498
+tanbeta = 58, tbeff=53.2653, mhp=380, uncxsec=0.097581, final xsec=0.0822998
+tanbeta = 58, tbeff=53.2653, mhp=400, uncxsec=0.0817474, final xsec=0.0689457
+tanbeta = 58, tbeff=53.2653, mhp=420, uncxsec=0.068838, final xsec=0.0580579
+tanbeta = 58, tbeff=53.2653, mhp=440, uncxsec=0.0582375, final xsec=0.0491175
+tanbeta = 58, tbeff=53.2653, mhp=460, uncxsec=0.0494655, final xsec=0.0417192
+tanbeta = 58, tbeff=53.2653, mhp=480, uncxsec=0.0419372, final xsec=0.0353698
+tanbeta = 58, tbeff=53.2653, mhp=500, uncxsec=0.0359392, final xsec=0.0303111
+tanbeta = 58, tbeff=53.2653, mhp=520, uncxsec=0.0307782, final xsec=0.0259583
+tanbeta = 58, tbeff=53.2653, mhp=540, uncxsec=0.0263186, final xsec=0.0221971
+tanbeta = 58, tbeff=53.2653, mhp=560, uncxsec=0.0226096, final xsec=0.0190689
+tanbeta = 58, tbeff=53.2653, mhp=580, uncxsec=0.0195477, final xsec=0.0164865
+tanbeta = 58, tbeff=53.2653, mhp=600, uncxsec=0.0169285, final xsec=0.0142775
+tan(beta) = 59
+Found delta_b=0.188878 as corresponding to tb=59
+Computed tbeff=54.1107
+tanbeta = 59, tbeff=54.1107, mhp=200, uncxsec=0.557583, final xsec=0.468999
+tanbeta = 59, tbeff=54.1107, mhp=220, uncxsec=0.446762, final xsec=0.375785
+tanbeta = 59, tbeff=54.1107, mhp=240, uncxsec=0.365004, final xsec=0.307016
+tanbeta = 59, tbeff=54.1107, mhp=260, uncxsec=0.298362, final xsec=0.250961
+tanbeta = 59, tbeff=54.1107, mhp=280, uncxsec=0.245606, final xsec=0.206586
+tanbeta = 59, tbeff=54.1107, mhp=300, uncxsec=0.201781, final xsec=0.169724
+tanbeta = 59, tbeff=54.1107, mhp=320, uncxsec=0.167379, final xsec=0.140787
+tanbeta = 59, tbeff=54.1107, mhp=340, uncxsec=0.139445, final xsec=0.117291
+tanbeta = 59, tbeff=54.1107, mhp=360, uncxsec=0.116374, final xsec=0.0978856
+tanbeta = 59, tbeff=54.1107, mhp=380, uncxsec=0.097581, final xsec=0.0820783
+tanbeta = 59, tbeff=54.1107, mhp=400, uncxsec=0.0817474, final xsec=0.0687601
+tanbeta = 59, tbeff=54.1107, mhp=420, uncxsec=0.068838, final xsec=0.0579017
+tanbeta = 59, tbeff=54.1107, mhp=440, uncxsec=0.0582375, final xsec=0.0489853
+tanbeta = 59, tbeff=54.1107, mhp=460, uncxsec=0.0494655, final xsec=0.0416069
+tanbeta = 59, tbeff=54.1107, mhp=480, uncxsec=0.0419372, final xsec=0.0352746
+tanbeta = 59, tbeff=54.1107, mhp=500, uncxsec=0.0359392, final xsec=0.0302295
+tanbeta = 59, tbeff=54.1107, mhp=520, uncxsec=0.0307782, final xsec=0.0258885
+tanbeta = 59, tbeff=54.1107, mhp=540, uncxsec=0.0263186, final xsec=0.0221374
+tanbeta = 59, tbeff=54.1107, mhp=560, uncxsec=0.0226096, final xsec=0.0190176
+tanbeta = 59, tbeff=54.1107, mhp=580, uncxsec=0.0195477, final xsec=0.0164421
+tanbeta = 59, tbeff=54.1107, mhp=600, uncxsec=0.0169285, final xsec=0.0142391
+tan(beta) = 60
+Found delta_b=0.192078 as corresponding to tb=60
+Computed tbeff=54.954
+tanbeta = 60, tbeff=54.954, mhp=200, uncxsec=0.557583, final xsec=0.46774
+tanbeta = 60, tbeff=54.954, mhp=220, uncxsec=0.446762, final xsec=0.374776
+tanbeta = 60, tbeff=54.954, mhp=240, uncxsec=0.365004, final xsec=0.306191
+tanbeta = 60, tbeff=54.954, mhp=260, uncxsec=0.298362, final xsec=0.250287
+tanbeta = 60, tbeff=54.954, mhp=280, uncxsec=0.245606, final xsec=0.206032
+tanbeta = 60, tbeff=54.954, mhp=300, uncxsec=0.201781, final xsec=0.169268
+tanbeta = 60, tbeff=54.954, mhp=320, uncxsec=0.167379, final xsec=0.140409
+tanbeta = 60, tbeff=54.954, mhp=340, uncxsec=0.139445, final xsec=0.116976
+tanbeta = 60, tbeff=54.954, mhp=360, uncxsec=0.116374, final xsec=0.0976228
+tanbeta = 60, tbeff=54.954, mhp=380, uncxsec=0.097581, final xsec=0.0818579
+tanbeta = 60, tbeff=54.954, mhp=400, uncxsec=0.0817474, final xsec=0.0685756
+tanbeta = 60, tbeff=54.954, mhp=420, uncxsec=0.068838, final xsec=0.0577462
+tanbeta = 60, tbeff=54.954, mhp=440, uncxsec=0.0582375, final xsec=0.0488538
+tanbeta = 60, tbeff=54.954, mhp=460, uncxsec=0.0494655, final xsec=0.0414952
+tanbeta = 60, tbeff=54.954, mhp=480, uncxsec=0.0419372, final xsec=0.0351799
+tanbeta = 60, tbeff=54.954, mhp=500, uncxsec=0.0359392, final xsec=0.0301484
+tanbeta = 60, tbeff=54.954, mhp=520, uncxsec=0.0307782, final xsec=0.025819
+tanbeta = 60, tbeff=54.954, mhp=540, uncxsec=0.0263186, final xsec=0.0220779
+tanbeta = 60, tbeff=54.954, mhp=560, uncxsec=0.0226096, final xsec=0.0189665
+tanbeta = 60, tbeff=54.954, mhp=580, uncxsec=0.0195477, final xsec=0.016398
+tanbeta = 60, tbeff=54.954, mhp=600, uncxsec=0.0169285, final xsec=0.0142008
+Info in <TCanvas::Print>: png file outPlots/mhpVsTanbS.png has been created
+Info in <TCanvas::Print>: pdf file outPlots/mhpVsTanbS.pdf has been created
+Info in <TCanvas::SaveSource>: C++ Macro file: outPlots/mhpVsTanbS.C has been generated
+Info in <TCanvas::Print>: png file outPlots/mhpVsTanbDS.png has been created
+Info in <TCanvas::Print>: pdf file outPlots/mhpVsTanbDS.pdf has been created
+Info in <TCanvas::SaveSource>: C++ Macro file: outPlots/mhpVsTanbDS.C has been generated
