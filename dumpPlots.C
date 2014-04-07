@@ -201,16 +201,33 @@ void dumpPlots(){
   leg2->AddEntry(g_tanb5xsec , g_tanb5xsec ->GetTitle(), "l");   
   leg2->AddEntry(g_tanb30xsec, g_tanb30xsec->GetTitle(), "l");   
 
+  leg1->SetFillColor(0);
+  leg2->SetFillColor(0);
+
   gStyle->SetOptTitle(0);
+
+  TPaveText *pt = new TPaveText(0.15,0.93,0.9,1.0, "brNDC");
+  pt->SetBorderSize(1);
+  pt->SetFillColor(19);
+  pt->SetFillStyle(0);
+  pt->SetLineColor(0);
+  //  pt->SetTextFont(132);                                                                                                                                                              
+  pt->SetTextSize(0.045);
+  TText *text = pt->AddText("mhmodp model, #sqrt{s} = 8 TeV");
+  text->SetTextAlign(11);
+
 
   TCanvas* brs = new TCanvas("brs", "branching ratios", 2000, 2000 );
   brs->cd();
   gPad->SetLogy();
+  g_tanb30BRtaunu->SetMaximum(2.);
+  g_tanb30BRtaunu->SetMinimum(0.003);
   g_tanb30BRtaunu ->Draw("ac*");
   g_tanb5BRtb    ->Draw("c*same");
   g_tanb5BRtaunu->Draw("c*same");
   g_tanb30BRtb   ->Draw("c*same");
   leg1->Draw();
+  pt->Draw();
   brs->Modified();
   brs->Update();
   brs->SaveAs("branchingRatiosReference.png");
@@ -219,9 +236,12 @@ void dumpPlots(){
   TCanvas* xsecs = new TCanvas("xsecs", "cross sections", 2000, 2000);
   xsecs->cd();
   gPad->SetLogy();
+  g_tanb30xsec->SetMinimum(0.001);
+  g_tanb30xsec->GetYaxis()->SetTitleOffset(1.3);
   g_tanb30xsec ->Draw("ac*");
   g_tanb5xsec->Draw("c*same");
   leg2->Draw();
+  pt->Draw();
   xsecs->Modified();
   xsecs->Update();
   xsecs->SaveAs("crossSectionsReference.png");
