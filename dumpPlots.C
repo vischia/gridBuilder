@@ -175,12 +175,12 @@ void dumpPlots(){
   TGraph* g_tanb5xsec     = new TGraph(21, xsecMasses, tanb5xsec );
   TGraph* g_tanb30xsec    = new TGraph(21, xsecMasses, tanb30xsec );
                                               
-  g_tanb5BRtaunu ->SetLineColor(kRed);    g_tanb5BRtaunu ->SetLineStyle(2); g_tanb5BRtaunu ->SetLineWidth(3); g_tanb5BRtaunu ->SetTitle("BR(H^{+}#rightarrow#tau#nu), tan#beta=5");   
-  g_tanb5BRtb    ->SetLineColor(kRed-2);  g_tanb5BRtb    ->SetLineStyle(3); g_tanb5BRtb    ->SetLineWidth(3); g_tanb5BRtb    ->SetTitle("BR(H^{+}#rightarrow tb), tan#beta=5"); 
-  g_tanb30BRtaunu->SetLineColor(kBlue);   g_tanb30BRtaunu->SetLineStyle(2); g_tanb30BRtaunu->SetLineWidth(3); g_tanb30BRtaunu->SetTitle("BR(H^{+}#rightarrow#tau#nu), tan#beta=30"); 
-  g_tanb30BRtb   ->SetLineColor(kBlue-2); g_tanb30BRtb   ->SetLineStyle(3); g_tanb30BRtb   ->SetLineWidth(3); g_tanb30BRtb   ->SetTitle("BR(H^{+}#rightarrow tb), tan#beta=30"); 
-  g_tanb5xsec    ->SetLineColor(kRed);    g_tanb5xsec    ->SetLineStyle(2); g_tanb5xsec    ->SetLineWidth(3); g_tanb5xsec    ->SetTitle("H^{+} prod. xsec, tan#beta=5"); 
-  g_tanb30xsec   ->SetLineColor(kBlue);   g_tanb30xsec   ->SetLineStyle(2); g_tanb30xsec   ->SetLineWidth(3); g_tanb30xsec   ->SetTitle("H^{+} prod. xsec, tan#beta=30"); 
+  g_tanb5BRtaunu ->SetLineColor(kRed);    g_tanb5BRtaunu ->SetMarkerSize(2); g_tanb5BRtaunu ->SetMarkerStyle(24); g_tanb5BRtaunu ->SetLineStyle(2); g_tanb5BRtaunu ->SetLineWidth(3); g_tanb5BRtaunu ->SetTitle("BR(H^{+}#rightarrow#tau#nu), tan#beta=5");   
+  g_tanb5BRtb    ->SetLineColor(kRed);    g_tanb5BRtb    ->SetMarkerSize(2); g_tanb5BRtb    ->SetMarkerStyle(24); g_tanb5BRtb    ->SetLineStyle(1); g_tanb5BRtb    ->SetLineWidth(3); g_tanb5BRtb    ->SetTitle("BR(H^{+}#rightarrow tb), tan#beta=5"); 
+  g_tanb30BRtaunu->SetLineColor(kBlue);   g_tanb30BRtaunu->SetMarkerSize(2); g_tanb30BRtaunu->SetMarkerStyle(25); g_tanb30BRtaunu->SetLineStyle(2); g_tanb30BRtaunu->SetLineWidth(3); g_tanb30BRtaunu->SetTitle("BR(H^{+}#rightarrow#tau#nu), tan#beta=30"); 
+  g_tanb30BRtb   ->SetLineColor(kBlue);   g_tanb30BRtb   ->SetMarkerSize(2); g_tanb30BRtb   ->SetMarkerStyle(25); g_tanb30BRtb   ->SetLineStyle(1); g_tanb30BRtb   ->SetLineWidth(3); g_tanb30BRtb   ->SetTitle("BR(H^{+}#rightarrow tb), tan#beta=30"); 
+  g_tanb5xsec    ->SetLineColor(kRed);    g_tanb5xsec    ->SetMarkerSize(2); g_tanb5xsec    ->SetMarkerStyle(24); g_tanb5xsec    ->SetLineStyle(2); g_tanb5xsec    ->SetLineWidth(3); g_tanb5xsec    ->SetTitle("H^{+} prod. xsec, tan#beta=5"); 
+  g_tanb30xsec   ->SetLineColor(kBlue);   g_tanb30xsec   ->SetMarkerSize(2); g_tanb30xsec   ->SetMarkerStyle(25); g_tanb30xsec   ->SetLineStyle(2); g_tanb30xsec   ->SetLineWidth(3); g_tanb30xsec   ->SetTitle("H^{+} prod. xsec, tan#beta=30"); 
   
   g_tanb5BRtaunu ->GetXaxis()->SetTitle("H^{#pm} mass [GeV]"); g_tanb5BRtaunu ->GetYaxis()->SetTitle("Branching ratio");
   g_tanb5BRtb    ->GetXaxis()->SetTitle("H^{#pm} mass [GeV]"); g_tanb5BRtb    ->GetYaxis()->SetTitle("Branching ratio");
@@ -191,15 +191,15 @@ void dumpPlots(){
   
   
   
-  TLegend* leg1 = new TLegend(0.6,0.8,0.9, 0.9);
-  leg1->AddEntry(g_tanb5BRtaunu ,g_tanb5BRtaunu  ->GetTitle(), "l");
-  leg1->AddEntry(g_tanb5BRtb    ,g_tanb5BRtb     ->GetTitle(), "l");
-  leg1->AddEntry(g_tanb30BRtaunu,g_tanb30BRtaunu ->GetTitle(), "l");
-  leg1->AddEntry(g_tanb30BRtb   ,g_tanb30BRtb    ->GetTitle(), "l");
+  TLegend* leg1 = new TLegend(0.5,0.3,0.9, 0.5);
+  leg1->AddEntry(g_tanb5BRtaunu ,g_tanb5BRtaunu  ->GetTitle(), "lp");
+  leg1->AddEntry(g_tanb5BRtb    ,g_tanb5BRtb     ->GetTitle(), "lp");
+  leg1->AddEntry(g_tanb30BRtaunu,g_tanb30BRtaunu ->GetTitle(), "lp");
+  leg1->AddEntry(g_tanb30BRtb   ,g_tanb30BRtb    ->GetTitle(), "lp");
   
-  TLegend* leg2 = new TLegend(0.6,0.8,0.9, 0.9);
-  leg2->AddEntry(g_tanb5xsec , g_tanb5xsec ->GetTitle(), "l");   
-  leg2->AddEntry(g_tanb30xsec, g_tanb30xsec->GetTitle(), "l");   
+  TLegend* leg2 = new TLegend(0.5,0.7,0.9, 0.9);
+  leg2->AddEntry(g_tanb5xsec , g_tanb5xsec ->GetTitle(), "lp");   
+  leg2->AddEntry(g_tanb30xsec, g_tanb30xsec->GetTitle(), "lp");   
 
   leg1->SetFillColor(0);
   leg2->SetFillColor(0);
@@ -222,10 +222,10 @@ void dumpPlots(){
   gPad->SetLogy();
   g_tanb30BRtaunu->SetMaximum(2.);
   g_tanb30BRtaunu->SetMinimum(0.003);
-  g_tanb30BRtaunu ->Draw("ac*");
-  g_tanb5BRtb    ->Draw("c*same");
-  g_tanb5BRtaunu->Draw("c*same");
-  g_tanb30BRtb   ->Draw("c*same");
+  g_tanb30BRtaunu ->Draw("acp");
+  g_tanb5BRtb    ->Draw("cpsame");
+  g_tanb5BRtaunu->Draw("cpsame");
+  g_tanb30BRtb   ->Draw("cpsame");
   leg1->Draw();
   pt->Draw();
   brs->Modified();
@@ -238,8 +238,8 @@ void dumpPlots(){
   gPad->SetLogy();
   g_tanb30xsec->SetMinimum(0.001);
   g_tanb30xsec->GetYaxis()->SetTitleOffset(1.3);
-  g_tanb30xsec ->Draw("ac*");
-  g_tanb5xsec->Draw("c*same");
+  g_tanb30xsec ->Draw("acp");
+  g_tanb5xsec->Draw("cpsame");
   leg2->Draw();
   pt->Draw();
   xsecs->Modified();
