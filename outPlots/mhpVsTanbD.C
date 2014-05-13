@@ -1,7 +1,7 @@
 {
 //=========Macro generated from canvas: mhpVsTanbD/mhpVsTanbD
-//=========  (Thu Mar 13 12:57:45 2014) by ROOT version5.34/03
-   TCanvas *mhpVsTanbD = new TCanvas("mhpVsTanbD", "mhpVsTanbD",0,59,2000,2000);
+//=========  (Mon Mar 31 17:00:15 2014) by ROOT version5.34/03
+   TCanvas *mhpVsTanbD = new TCanvas("mhpVsTanbD", "mhpVsTanbD",0,0,2000,2000);
    gStyle->SetOptFit(1);
    gStyle->SetOptStat(0);
    gStyle->SetOptTitle(0);
