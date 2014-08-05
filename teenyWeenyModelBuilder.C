@@ -183,18 +183,20 @@ void teenyWeenyModelBuilder(TString action){
   
       Int_t nlines(0);
       TH2F* tbh = new TH2F("TBH","B(H->taunu) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
-      TH1F* tbhc = new TH1F("TBHc","B(H->taunu) in (tanb,M_{A}) plane", 28, xbinsTanb);
+      TH2F* tbhc = new TH2F("TBHc","B(H->taunu) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
       tbh->GetXaxis()->SetTitle("tan#beta");
       tbh->GetYaxis()->SetTitle("M_{A} [GeV]");
       TH2F* htb = new TH2F("HTB","B(H->tb) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
-      TH1F* htbc = new TH1F("HTBc","B(H->tb) in (tanb,M_{A}) plane", 28, xbinsTanb);
+      TH2F* htbc = new TH2F("HTBc","B(H->tb) in (tanb,M_{A}) plane", 1000, 0., 1000., 28, xbinsTanb);
       htb->GetXaxis()->SetTitle("tan#beta");
       htb->GetYaxis()->SetTitle("M_{A} [GeV]");
       TH2F* ma = new TH2F("ma", "mA(mhp,tanbeta)", 1000, 0., 1000., 28, xbinsTanb);
+      TH2F* mac = new TH2F("mac", "mA(mhp,tanbeta)", 1000, 0., 1000., 28, xbinsTanb);
       ma->GetXaxis()->SetTitle("tan#beta");
       ma->GetYaxis()->SetTitle("M_{H^{#pm}} [GeV]");
 
       // TNtuple *ntuple = new TNtuple("ntuple","data from ascii file","x:y:z");                                                                      
+      double maxma(0);
       while (1) {
 	in 
 	>> M_A      
@@ -220,19 +222,52 @@ void teenyWeenyModelBuilder(TString action){
 	>> BRSUSY     ;    
 
 
-        if (!in.good()) break;
-        if(M_A==140 && (tanbeta==5 || tanbeta==30) ) printf("M_A=%8f, tanbeta=%8f, mue=%8f, M_Hp =%8f, BR(H->taunu)=%8f, BR(H->tb)=%8f\n",M_A,tanbeta,mue,M_p,BRtaunutau,BRtbb);
-	tbhc->Fill(tanbeta, 1);
-	htbc->Fill(tanbeta, 1);
-	if(tbhc->GetBinContent(tbhc->FindBin(tanbeta)) <=1){ tbh->Fill(M_A,tanbeta,BRtaunutau);tbhc->Fill(tanbeta,1);}
-	if(htbc->GetBinContent(htbc->FindBin(tanbeta)) <=1){ htb->Fill(M_A,tanbeta,BRtbb);     htbc->Fill(tanbeta,1);}
-	ma->Fill(M_p,tanbeta,M_A);
+	if (!in.good()) break;
+        if(M_A==158 && tanbeta==30 ) printf("M_A=%8f, tanbeta=%8f, mue=%8f, M_Hp =%8f, BR(H->taunu)=%8f, BR(H->tb)=%8f\n",M_A,tanbeta,mue,M_p,BRtaunutau,BRtbb);
+	tbhc->Fill(M_A, tanbeta, 1);
+	htbc->Fill(M_A, tanbeta, 1);
 	
+	if(tbhc->GetBinContent(tbhc->FindBin(M_A, tanbeta)) ==1){ 
+	  tbh->Fill(M_A,tanbeta,BRtaunutau);
+	  tbhc->Fill(M_A,tanbeta,1);
+	  if(tanbeta==30) cout << "MA, tanb, BR(taunu) " << M_A << ", " << tanbeta << ", " << BRtaunutau << endl;	
+	}
+	if(htbc->GetBinContent(htbc->FindBin(M_A, tanbeta)) ==1){
+	  htb->Fill(M_A,tanbeta,BRtbb); 
+	  htbc->Fill(M_A,tanbeta,1);
+	  //if(tanbeta==30) cout << "MA, tanb, BR(tb) " << M_A << ", " << tanbeta << ", " << BRtbb      << endl;
+	}
+	if(tanbeta==30) cout << "MA, tanb, BR(tb) " << M_A << ", " << tanbeta << ", " << BRtbb      << ", controlbin: " << htbc->FindBin(M_A, tanbeta) << ", content " << htbc->GetBinContent(htbc->FindBin(M_A, tanbeta)) << endl;
+
+
+	mac->Fill(M_p,tanbeta,1);
+	if(mac->GetBinContent(mac->FindBin(M_p,tanbeta)) == 1){
+	  ma->Fill(M_p,tanbeta,M_A);
+	  //cout << "FILLING M_p: " << M_p << ", tanbeta: " << tanbeta << ", mA: " << M_A << ", bin " << ma->GetBinContent(ma->FindBin(M_p, tanbeta)) << endl;	
+	}
+	if(M_A>maxma) maxma=M_A;
         //ntuple->Fill(x,y,z);                                                                                                                        
         nlines++;
       }
       printf(" found %d points\n",nlines);
-      
+
+      cout << "Maximum filled ma: " << maxma << endl;
+      double maxma(0);
+      for(int bibi=0; bibi<ma->GetXaxis()->GetNbins(); ++bibi)
+	for(int cici=0; cici<ma->GetYaxis()->GetNbins(); ++cici)
+	  if(ma->GetBinContent(bibi,cici)>maxma) maxma=ma->GetBinContent(bibi,cici);
+      cout << "Maximum postfill ma: " << maxma << endl;
+      cout << "MA(180) = " << ma->GetBinContent(ma->FindBin(180,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(180,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(180,30)),30) << endl;
+      cout << "MA(200) = " << ma->GetBinContent(ma->FindBin(200,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(200,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(200,30)),30) << endl;
+      cout << "MA(220) = " << ma->GetBinContent(ma->FindBin(220,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(220,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(220,30)),30) << endl;
+      cout << "MA(250) = " << ma->GetBinContent(ma->FindBin(250,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(250,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(250,30)),30) << endl;
+      cout << "MA(300) = " << ma->GetBinContent(ma->FindBin(300,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(300,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(300,30)),30) << endl;
+      cout << "MA(400) = " << ma->GetBinContent(ma->FindBin(400,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(400,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(400,30)),30) << endl;
+      cout << "MA(500) = " << ma->GetBinContent(ma->FindBin(500,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(500,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(500,30)),30) << endl;
+      cout << "MA(600) = " << ma->GetBinContent(ma->FindBin(600,30)) << " BRtaunu: " << tbh->GetBinContent(ma->GetBinContent(ma->FindBin(600,30)),30) << " BRtb: " << htb->GetBinContent(ma->GetBinContent(ma->FindBin(600,30)),30) << endl;
+
+
+
       cout << "TBH" << endl;
       for(int xa=0; xa<tbh->GetXaxis()->GetNbins(); ++xa){
 	for(int ya=0; ya<tbh->GetYaxis()->GetNbins(); ++ya){
@@ -394,7 +429,7 @@ void teenyWeenyModelBuilder(TString action){
       TH2F* ma = (TH2F*) fbrs->Get("ma");
      
       TH2F* mhpVsTanb = (TH2F*) fcorrxsec->Get("mhpVsTanbDS");
-
+      
       tbh->SetTitle("BR(Hp->taunu)");
       htb->SetTitle("BR(Hp->tb)");
       ma->SetTitle("M_A(mHp, tanbeta)");
@@ -606,7 +641,7 @@ void draw2DPlot(TH2F* h, bool log){
 //      c->SetLogx();
 //      c->SetLogy();
     }
-  h->Draw("CONT");//LZ");//SURF3//LEGO30");
+  h->Draw("COLZ");//LZ");//SURF3//LEGO30");
   //  h->GetXaxis()->SetNdivisions(2000);
   //  h->GetYaxis()->SetNdivisions(2000);
   h->GetXaxis()->SetMoreLogLabels();
