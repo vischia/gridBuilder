@@ -1,7 +1,7 @@
 {
 //=========Macro generated from canvas: deltabVsTanb/deltabVsTanb
-//=========  (Mon Mar 31 17:00:11 2014) by ROOT version5.34/03
-   TCanvas *deltabVsTanb = new TCanvas("deltabVsTanb", "deltabVsTanb",0,0,2000,2000);
+//=========  (Tue Aug  5 12:08:40 2014) by ROOT version5.34/03
+   TCanvas *deltabVsTanb = new TCanvas("deltabVsTanb", "deltabVsTanb",1366,39,2000,2000);
    gStyle->SetOptFit(1);
    gStyle->SetOptStat(0);
    gStyle->SetOptTitle(0);

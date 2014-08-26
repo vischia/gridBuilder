@@ -1,3 +1,5 @@
+
+
 #include <iostream>
 
 #include <TSystem.h>
@@ -367,7 +369,7 @@ void teenyWeenyModelBuilder(TString action){
 	    }
 	  }
 	  double tbeff( tb/sqrt(1+delta_b));
-	  cout << "Computed tbeff=" << tbeff << endl;
+	  cout << "Computed tbeff(" << delta_b << ") =" << tbeff << endl;
 	  
 	  vector<double> mhps; mhps.clear();
 	  mhps.push_back(200);
@@ -641,7 +643,8 @@ void draw2DPlot(TH2F* h, bool log){
 //      c->SetLogx();
 //      c->SetLogy();
     }
-  h->Draw("COLZ");//LZ");//SURF3//LEGO30");
+  h->Draw("LEGO3");
+  //h->Draw("COLZ");//LZ");//SURF3//LEGO30");
   //  h->GetXaxis()->SetNdivisions(2000);
   //  h->GetYaxis()->SetNdivisions(2000);
   h->GetXaxis()->SetMoreLogLabels();

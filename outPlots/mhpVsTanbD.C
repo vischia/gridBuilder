@@ -1,7 +1,7 @@
 {
 //=========Macro generated from canvas: mhpVsTanbD/mhpVsTanbD
-//=========  (Mon Mar 31 17:00:15 2014) by ROOT version5.34/03
-   TCanvas *mhpVsTanbD = new TCanvas("mhpVsTanbD", "mhpVsTanbD",0,0,2000,2000);
+//=========  (Tue Aug  5 12:10:10 2014) by ROOT version5.34/03
+   TCanvas *mhpVsTanbD = new TCanvas("mhpVsTanbD", "mhpVsTanbD",1366,39,2000,2000);
    gStyle->SetOptFit(1);
    gStyle->SetOptStat(0);
    gStyle->SetOptTitle(0);
@@ -632,6 +632,17 @@
    mhpVsTanbD->SetContourLevel(17,0.7357694);
    mhpVsTanbD->SetContourLevel(18,0.7790499);
    mhpVsTanbD->SetContourLevel(19,0.8223305);
+   
+   TPaletteAxis *palette = new TPaletteAxis(60.375,200,62.9625,620,mhpVsTanbD);
+palette->SetLabelColor(1);
+palette->SetLabelFont(42);
+palette->SetLabelOffset(0.007);
+palette->SetLabelSize(0.05);
+palette->SetTitleOffset(1);
+palette->SetTitleSize(0.06);
+   palette->SetFillColor(1);
+   palette->SetFillStyle(1001);
+   mhpVsTanbD->GetListOfFunctions()->Add(palette,"br");
    mhpVsTanbD->SetLineStyle(0);
    mhpVsTanbD->SetMarkerStyle(20);
    mhpVsTanbD->GetXaxis()->SetTitle("tan#beta");
@@ -655,7 +666,7 @@
    mhpVsTanbD->GetZaxis()->SetLabelSize(0.05);
    mhpVsTanbD->GetZaxis()->SetTitleSize(0.06);
    mhpVsTanbD->GetZaxis()->SetTitleFont(42);
-   mhpVsTanbD->Draw("CONT");
+   mhpVsTanbD->Draw("COLZ");
    mhpVsTanbD->Modified();
    mhpVsTanbD->cd();
    mhpVsTanbD->SetSelected(mhpVsTanbD);

@@ -1,11 +1,13 @@
 {
 //=========Macro generated from canvas: mhpVsTanbDS/mhpVsTanbDS
-//=========  (Fri Apr  4 16:05:17 2014) by ROOT version5.34/03
+//=========  (Thu Aug 14 15:51:11 2014) by ROOT version5.34/03
    TCanvas *mhpVsTanbDS = new TCanvas("mhpVsTanbDS", "mhpVsTanbDS",0,0,2000,2000);
    gStyle->SetOptFit(1);
    gStyle->SetOptStat(0);
    gStyle->SetOptTitle(0);
-   mhpVsTanbDS->Range(-12,133.4146,63,645.6098);
+   mhpVsTanbDS->Range(-1.104145,-1.177908,0.8675426,1.003403);
+   TView *view = TView::CreateView(1);
+   view->SetRange(0,200,0,60,620,2.599391);
    mhpVsTanbDS->SetFillColor(0);
    mhpVsTanbDS->SetBorderMode(0);
    mhpVsTanbDS->SetBorderSize(2);
@@ -15,8 +17,6 @@
    mhpVsTanbDS->SetRightMargin(0.04);
    mhpVsTanbDS->SetTopMargin(0.05);
    mhpVsTanbDS->SetBottomMargin(0.13);
-   mhpVsTanbDS->SetFrameFillStyle(0);
-   mhpVsTanbDS->SetFrameBorderMode(0);
    mhpVsTanbDS->SetFrameFillStyle(0);
    mhpVsTanbDS->SetFrameBorderMode(0);
    Double_t xAxis2[29] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 30, 35, 40, 45, 50, 55, 60}; 
@@ -611,7 +611,6 @@
    mhpVsTanbDS->SetContourLevel(17,2.004066);
    mhpVsTanbDS->SetContourLevel(18,2.121952);
    mhpVsTanbDS->SetContourLevel(19,2.239838);
-   mhpVsTanbDS->SetLineStyle(0);
    mhpVsTanbDS->SetMarkerStyle(20);
    mhpVsTanbDS->GetXaxis()->SetTitle("tan#beta");
    mhpVsTanbDS->GetXaxis()->SetMoreLogLabels();
@@ -634,7 +633,7 @@
    mhpVsTanbDS->GetZaxis()->SetLabelSize(0.05);
    mhpVsTanbDS->GetZaxis()->SetTitleSize(0.06);
    mhpVsTanbDS->GetZaxis()->SetTitleFont(42);
-   mhpVsTanbDS->Draw("CONT");
+   mhpVsTanbDS->Draw("LEGO3");
    mhpVsTanbDS->Modified();
    mhpVsTanbDS->cd();
    mhpVsTanbDS->SetSelected(mhpVsTanbDS);
